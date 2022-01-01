@@ -1,0 +1,108 @@
+2022-01-01 17:14:50 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Main" could not be found.
+Exception Attributes: array (
+  'class' => 'Main',
+)
+Stack Trace:
+#0 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(214): Cake\Console\ShellDispatcher->findShell('Main')
+#1 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/jallyson/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2022-01-01 17:15:42 Error: [Cake\Console\Exception\MissingShellException] Shell class for "CronEmail" could not be found.
+Exception Attributes: array (
+  'class' => 'CronEmail',
+)
+Stack Trace:
+#0 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(214): Cake\Console\ShellDispatcher->findShell('CronEmail')
+#1 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/jallyson/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2022-01-01 17:16:15 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Email" could not be found.
+Exception Attributes: array (
+  'class' => 'Email',
+)
+Stack Trace:
+#0 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(214): Cake\Console\ShellDispatcher->findShell('Email')
+#1 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/jallyson/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2022-01-01 17:17:38 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Email" could not be found.
+Exception Attributes: array (
+  'class' => 'Email',
+)
+Stack Trace:
+#0 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(214): Cake\Console\ShellDispatcher->findShell('Email')
+#1 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/jallyson/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2022-01-01 17:21:04 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Email" could not be found.
+Exception Attributes: array (
+  'class' => 'Email',
+)
+Stack Trace:
+#0 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(214): Cake\Console\ShellDispatcher->findShell('Email')
+#1 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/jallyson/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2022-01-01 17:21:12 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Email" could not be found.
+Exception Attributes: array (
+  'class' => 'Email',
+)
+Stack Trace:
+#0 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(214): Cake\Console\ShellDispatcher->findShell('Email')
+#1 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/jallyson/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2022-01-01 17:21:42 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Email" could not be found.
+Exception Attributes: array (
+  'class' => 'Email',
+)
+Stack Trace:
+#0 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(214): Cake\Console\ShellDispatcher->findShell('Email')
+#1 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/jallyson/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2022-01-01 17:24:14 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Email" could not be found.
+Exception Attributes: array (
+  'class' => 'Email',
+)
+Stack Trace:
+#0 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(214): Cake\Console\ShellDispatcher->findShell('Email')
+#1 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/jallyson/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2022-01-01 17:24:25 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Email" could not be found.
+Exception Attributes: array (
+  'class' => 'Email',
+)
+Stack Trace:
+#0 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(214): Cake\Console\ShellDispatcher->findShell('Email')
+#1 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/jallyson/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/jallyson/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
