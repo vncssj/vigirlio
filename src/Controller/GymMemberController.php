@@ -498,7 +498,7 @@ class GymMemberController extends AppController
 			$email->subject("Ativação concluída | " . $sys_name);
 			$email->to($member_email);
 			// $email->replyTo($member_email);
-			$email->send($message);
+			$email->send($message); //Here
 
 			$this->Flash->success(__("Sucesso! Membro ativado com sucesso."));
 			return $this->redirect(["action" => "memberList"]);

@@ -115,7 +115,7 @@ class MemberRegistrationController  extends AppController
 				$email->emailFormat('html');
 				$email->subject("Cadastrado com sucesso | " . $sys_name);
 				$email->to($this->request->data["email"]);
-				$email->send($message);
+				$email->send($message); //Here
 
 				$this->Flash->success(__("Cadastro concluído com sucesso. Você receberá um e-mail após a ativação"));
 
