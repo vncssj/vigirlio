@@ -45,12 +45,10 @@ class EmailShell extends Shell
 
             if ($data_referencia->isToday()) {
 
-                $url = Router::url('/', true);
                 $logo = $configs->gym_logo;
-                $logo = (!empty($logo)) ? "/webroot/upload/" . $logo : "Thumbnail-img.png";
+                $logo = (!empty($logo)) ? "https://virgiliodesouza.com/painel/webroot/upload/" . $logo : "Thumbnail-img.png";
                 $sys_name = $configs->name;
                 $sys_email = $configs->email;
-
                 $this->loadModel('Membership');
 
                 $membership = $this->Membership->get($membro->selected_membership);
@@ -61,7 +59,7 @@ class EmailShell extends Shell
                 $pre_texto = str_replace('GYM_ENDDATE', $membro->membership_valid_to, $pre_texto);
 
                 $message = '<p style="vertical-align: middle;font-size: 20px;color: #fff;font-weight: 700;display:block;background: #000;font-size: 16px;">
-            <img src="' . $url . $logo . '" alt="' . $sys_name . '" height="100" style="display: inline-block;vertical-align: middle;"> ' . $sys_name . '</p>';
+            <img src="' . $logo . '" alt="' . $sys_name . '" height="100" style="display: inline-block;vertical-align: middle;"> ' . $sys_name . '</p>';
                 $message .= $pre_texto;
 
                 $email = new Email('default');
@@ -97,9 +95,8 @@ class EmailShell extends Shell
 
             if ($data_referencia->isToday()) {
 
-                $url = Router::url('/', true);
                 $logo = $configs->gym_logo;
-                $logo = (!empty($logo)) ? "/webroot/upload/" . $logo : "Thumbnail-img.png";
+                $logo = (!empty($logo)) ? "https://virgiliodesouza.com/painel/webroot/upload/" . $logo : "Thumbnail-img.png";
                 $sys_name = $configs->name;
                 $sys_email = $configs->email;
 
@@ -114,7 +111,7 @@ class EmailShell extends Shell
                 $pre_texto = str_replace('GYM_ENDDATE', $membro->membership_valid_to, $pre_texto);
 
                 $message = '<p style="vertical-align: middle;font-size: 20px;color: #fff;font-weight: 700;display:block;background: #000;font-size: 16px;">
-            <img src="' . $url . $logo . '" alt="' . $sys_name . '" height="100" style="display: inline-block;vertical-align: middle;"> ' . $sys_name . '</p>';
+            <img src="' . $logo . '" alt="' . $sys_name . '" height="100" style="display: inline-block;vertical-align: middle;"> ' . $sys_name . '</p>';
                 $message .= $pre_texto;
 
                 $email = new Email('default');
