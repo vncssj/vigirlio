@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgstr "___"
 "Project-Id-Version: GYM - Master\n"
 "POT-Creation-Date: 2019-02-18 18:18+0530\n"
 "PO-Revision-Date: 2020-06-10 09:15+0530\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: Controller/ActivityController.php:38 Template/Activity/activity_list.ctp:37
 #: Template/Membership/view_activity.ctp:62
 msgid "Add Activity"
-msgstr "Adicionar atividade"
+msgstr "___Adicionar atividade"
 
 #: Controller/ActivityController.php:72
 #: Controller/GymDailyWorkoutController.php:91
@@ -30,16 +30,16 @@ msgstr "Adicionar atividade"
 #: Controller/MembershipPaymentController.php:201
 #: Controller/MembershipPaymentController.php:342
 msgid "Success! Record Saved Successfully."
-msgstr "Sucesso! Registro salvo com sucesso."
+msgstr "___Sucesso! Registro salvo com sucesso."
 
 #: Controller/ActivityController.php:83 Controller/GymGroupController.php:89
 #: Controller/GymReservationController.php:79
 msgid "Success! Record Deleted Successfully"
-msgstr "Sucesso! Registro excluído com sucesso"
+msgstr "___Sucesso! Registro excluído com sucesso"
 
 #: Controller/ActivityController.php:91
 msgid "Edit Activity"
-msgstr "Editar atividade"
+msgstr "___Editar atividade"
 
 #: Controller/ActivityController.php:137
 #: Controller/GymAccountantController.php:90
@@ -52,11 +52,11 @@ msgstr "Editar atividade"
 #: Controller/MembershipPaymentController.php:368
 #: Controller/StaffMembersController.php:105
 msgid "Success! Record Updated Successfully."
-msgstr "Sucesso! Registro Atualizado com Sucesso."
+msgstr "___Sucesso! Registro Atualizado com Sucesso."
 
 #: Controller/AdminProfileController.php:55
 msgid "Success! Record Saved Successfully.Please login again to see changes."
-msgstr "Sucesso! Registro salvo com êxito.Por favor, faça login novamente para ver as alterações."
+msgstr "___Sucesso! Registro salvo com êxito.Por favor, faça login novamente para ver as alterações."
 
 #: Controller/AdminProfileController.php:72
 #: Controller/GeneralSettingController.php:95
@@ -72,43 +72,43 @@ msgstr "Sucesso! Registro salvo com êxito.Por favor, faça login novamente para
 #: Controller/StaffMembersController.php:66
 #: Controller/StaffMembersController.php:121
 msgid "Invalid File Extension, Please Retry."
-msgstr "Extensão de arquivo inválida, por favor, tente novamente."
+msgstr "___Extensão de arquivo inválida, por favor, tente novamente."
 
 #: Controller/ClassScheduleController.php:41
 #: Template/ClassSchedule/class_list.ctp:51
 msgid "Add Class Schedule"
-msgstr "Adicionar horário de aula"
+msgstr "___Adicionar horário de aula"
 
 #: Controller/ClassScheduleController.php:80
 #: Controller/GymReservationController.php:33
 #: Controller/MembershipController.php:64
 msgid "Success! Record Saved Successfully"
-msgstr "Sucesso! Registro salvo com sucesso"
+msgstr "___Sucesso! Registro salvo com sucesso"
 
 #: Controller/ClassScheduleController.php:83
 #: Controller/MembershipController.php:150
 msgid "Error! There was an error while updating,Please try again later."
-msgstr "Erro! Ocorreu um erro durante a atualização. Tente novamente mais tarde."
+msgstr "___Erro! Ocorreu um erro durante a atualização. Tente novamente mais tarde."
 
 #: Controller/ClassScheduleController.php:92
 msgid "Edit Class Schedule"
-msgstr "Editar calendário de aulas"
+msgstr "___Editar calendário de aulas"
 
 #: Controller/ClassScheduleController.php:143
 #: Controller/GymGroupController.php:72
 #: Controller/GymReservationController.php:67
 #: Controller/MembershipController.php:147
 msgid "Success! Record Updated Successfully"
-msgstr "Sucesso! Registro atualizado com sucesso"
+msgstr "___Sucesso! Registro atualizado com sucesso"
 
 #: Controller/ClassScheduleController.php:153
 msgid "Success! Class Deleted Successfully."
-msgstr "Sucesso! Classe excluída com sucesso."
+msgstr "___Sucesso! Classe excluída com sucesso."
 
 #: Controller/Component/GYMFunctionComponent.php:262
 #: Template/GymMember/view_member.ctp:146
 msgid "Weight Report"
-msgstr "Relatório de peso"
+msgstr "___Relatório de peso"
 
 #: Controller/Component/GYMFunctionComponent.php:263
 #: Controller/Component/GYMFunctionComponent.php:269
@@ -119,105 +119,105 @@ msgstr "Relatório de peso"
 #: Controller/Component/GYMFunctionComponent.php:299
 #: Template/GymMember/view_attendance.ctp:69
 msgid "Day"
-msgstr "Dia"
+msgstr "___Dia"
 
 #: Controller/Component/GYMFunctionComponent.php:268
 #: Template/GymMember/view_member.ctp:196
 msgid "Thigh Report"
-msgstr "Relatório de coxa"
+msgstr "___Relatório de coxa"
 
 #: Controller/Component/GYMFunctionComponent.php:274
 #: Template/GymMember/view_member.ctp:246
 msgid "Height Report"
-msgstr "Relatório de Altura"
+msgstr "___Relatório de Altura"
 
 #: Controller/Component/GYMFunctionComponent.php:280
 #: Template/GymMember/view_member.ctp:270
 msgid "Chest Report"
-msgstr "Relatório de peito"
+msgstr "___Relatório de peito"
 
 #: Controller/Component/GYMFunctionComponent.php:286
 #: Template/GymMember/view_member.ctp:170
 msgid "Waist Report"
-msgstr "Relatório de cintura"
+msgstr "___Relatório de cintura"
 
 #: Controller/Component/GYMFunctionComponent.php:292
 #: Template/GymMember/view_member.ctp:220
 msgid "Arms Report"
-msgstr "Relatório de Armas"
+msgstr "___Relatório de Armas"
 
 #: Controller/Component/GYMFunctionComponent.php:298
 #: Template/GymMember/view_member.ctp:296
 msgid "Fat Report"
-msgstr "Relatório Gordo"
+msgstr "___Relatório Gordo"
 
 #: Controller/Component/GYMFunctionComponent.php:379
 msgid "Fully Paid"
-msgstr "Totalmente pago"
+msgstr "___Totalmente pago"
 
 #: Controller/Component/GYMFunctionComponent.php:381
 msgid "Not Paid"
-msgstr "Não pago"
+msgstr "___Não pago"
 
 #: Controller/Component/GYMFunctionComponent.php:383
 msgid "Partially Paid"
-msgstr "Parcialmente pago"
+msgstr "___Parcialmente pago"
 
 #: Controller/Component/GYMFunctionComponent.php:586
 msgid "Membership Reminder Alert!"
-msgstr "Alerta de lembrete de associação!"
+msgstr "___Alerta de lembrete de associação!"
 
 #: Controller/Component/GYMFunctionComponent.php:622
 msgid "January"
-msgstr "janeiro"
+msgstr "___janeiro"
 
 #: Controller/Component/GYMFunctionComponent.php:622
 msgid "February"
-msgstr "fevereiro"
+msgstr "___fevereiro"
 
 #: Controller/Component/GYMFunctionComponent.php:622
 msgid "March"
-msgstr "Março"
+msgstr "___Março"
 
 #: Controller/Component/GYMFunctionComponent.php:622
 msgid "April"
-msgstr "abril"
+msgstr "___abril"
 
 #: Controller/Component/GYMFunctionComponent.php:623
 msgid "May"
-msgstr "Maio"
+msgstr "___Maio"
 
 #: Controller/Component/GYMFunctionComponent.php:623
 msgid "June"
-msgstr "Junho"
+msgstr "___Junho"
 
 #: Controller/Component/GYMFunctionComponent.php:623
 msgid "July"
-msgstr "Julho"
+msgstr "___Julho"
 
 #: Controller/Component/GYMFunctionComponent.php:623
 msgid "August"
-msgstr "agosto"
+msgstr "___agosto"
 
 #: Controller/Component/GYMFunctionComponent.php:623
 msgid "September"
-msgstr "setembro"
+msgstr "___setembro"
 
 #: Controller/Component/GYMFunctionComponent.php:623
 msgid "October"
-msgstr "Outubro"
+msgstr "___Outubro"
 
 #: Controller/Component/GYMFunctionComponent.php:623
 msgid "November"
-msgstr "novembro"
+msgstr "___novembro"
 
 #: Controller/Component/GYMFunctionComponent.php:623
 msgid "December"
-msgstr "dezembro"
+msgstr "___dezembro"
 
 #: Controller/Component/GYMFunctionComponent.php:624
 msgid "You are not authorized to access that location."
-msgstr "Você não está autorizado a acessar esse local."
+msgstr "___Você não está autorizado a acessar esse local."
 
 #: Controller/DashboardController.php:106 Controller/ReportsController.php:109
 #: Template/Dashboard/dashboard.ctp:215
@@ -227,21 +227,21 @@ msgstr "Você não está autorizado a acessar esse local."
 #: Template/MemberRegistration/index.ctp:266
 #: Template/Reports/attendance_report.ctp:87
 msgid "Class"
-msgstr "Classe"
+msgstr "___Classe"
 
 #: Controller/DashboardController.php:106
 #: Controller/DashboardController.php:133 Controller/ReportsController.php:109
 #: Template/GymAttendance/attendance.ctp:91
 #: Template/GymAttendance/staff_attendance.ctp:58
 msgid "Present"
-msgstr "Presente"
+msgstr "___Presente"
 
 #: Controller/DashboardController.php:106
 #: Controller/DashboardController.php:133 Controller/ReportsController.php:109
 #: Template/GymAttendance/attendance.ctp:93
 #: Template/GymAttendance/staff_attendance.ctp:60
 msgid "Absent"
-msgstr "Ausente"
+msgstr "___Ausente"
 
 #: Controller/DashboardController.php:133
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:84
@@ -254,57 +254,57 @@ msgstr "Ausente"
 #: Template/StaffMembers/add_staff.ctp:47
 #: Template/StaffMembers/staff_list.ctp:31
 msgid "Staff Member"
-msgstr "Membro da equipe"
+msgstr "___Membro da equipe"
 
 #: Controller/GeneralSettingController.php:65
 #: Controller/GeneralSettingController.php:89
 msgid "Success! Settings Saved Successfully."
-msgstr "Sucesso! Configurações salvas com sucesso."
+msgstr "___Sucesso! Configurações salvas com sucesso."
 
 #: Controller/GymAccessrightController.php:249
 msgid "Success! Settings Saved successfully."
-msgstr "Sucesso! Configurações salvas com sucesso."
+msgstr "___Sucesso! Configurações salvas com sucesso."
 
 #: Controller/GymAccountantController.php:23
 #: Template/GymAccountant/accountant_list.ctp:43
 msgid "Add Accountant"
-msgstr "Adicionar contabilista"
+msgstr "___Adicionar contabilista"
 
 #: Controller/GymAccountantController.php:42
 #: Controller/GymNoticeController.php:62
 #: Controller/StaffMembersController.php:50
 msgid "Success! Record Successfully Saved."
-msgstr "Sucesso! Registro gravado com sucesso."
+msgstr "___Sucesso! Registro gravado com sucesso."
 
 #: Controller/GymAccountantController.php:67
 msgid "Edit Accountant"
-msgstr "Editar contador"
+msgstr "___Editar contador"
 
 #: Controller/GymAccountantController.php:117
 #: Controller/MembershipPaymentController.php:380
 msgid "Success! Accountant Deleted Successfully."
-msgstr "Sucesso! Contador excluído com sucesso."
+msgstr "___Sucesso! Contador excluído com sucesso."
 
 #: Controller/GymAjaxController.php:27 Controller/GymAjaxController1.php:25
 msgid "Add/Remove Category"
-msgstr "Adicionar / Remover Categoria"
+msgstr "___Adicionar / Remover Categoria"
 
 #: Controller/GymAjaxController.php:32 Controller/GymAjaxController1.php:30
 msgid "enter category name"
-msgstr "digite o nome da categoria"
+msgstr "___digite o nome da categoria"
 
 #: Controller/GymAjaxController.php:35 Controller/GymAjaxController.php:123
 #: Controller/GymAjaxController1.php:33 Controller/GymAjaxController1.php:121
 #: Template/Activity/add_activity.ctp:52 Template/Membership/add.ctp:93
 #: Template/Membership/edit_membership.ctp:31
 msgid "Add Category"
-msgstr "Adicionar categoria"
+msgstr "___Adicionar categoria"
 
 #: Controller/GymAjaxController.php:44 Controller/GymAjaxController.php:216
 #: Controller/GymAjaxController.php:297 Controller/GymAjaxController1.php:42
 #: Controller/GymAjaxController1.php:214 Controller/GymAjaxController1.php:295
 msgid "Category"
-msgstr "Categoria"
+msgstr "___Categoria"
 
 #: Controller/GymAjaxController.php:45 Controller/GymAjaxController.php:133
 #: Controller/GymAjaxController.php:217 Controller/GymAjaxController.php:298
@@ -349,7 +349,7 @@ msgstr "Categoria"
 #: Template/StaffMembers/staff_list.ctp:53
 #: Template/StaffMembers/staff_list.ctp:86
 msgid "Action"
-msgstr "Açao"
+msgstr "___Açao"
 
 #: Controller/GymAjaxController.php:55 Controller/GymAjaxController.php:81
 #: Controller/GymAjaxController.php:143 Controller/GymAjaxController.php:170
@@ -377,7 +377,7 @@ msgstr "Açao"
 #: Template/MembershipPayment/add_income.ctp:85
 #: Template/MembershipPayment/add_income.ctp:107
 msgid "Delete"
-msgstr "Excluir"
+msgstr "___Excluir"
 
 #: Controller/GymAjaxController.php:65 Controller/GymAjaxController.php:153
 #: Controller/GymAjaxController.php:240 Controller/GymAjaxController.php:321
@@ -397,130 +397,130 @@ msgstr "Excluir"
 #: Controller/GymAjaxController1.php:1420
 #: Controller/GymAjaxController1.php:1466
 msgid "Close"
-msgstr "Ok"
+msgstr "___Ok"
 
 #: Controller/GymAjaxController.php:106 Controller/GymAjaxController1.php:104
 msgid "Add/Remove Installment Plan"
-msgstr "Adicionar / remover plano de parcelamento"
+msgstr "___Adicionar / remover plano de parcelamento"
 
 #: Controller/GymAjaxController.php:111 Controller/GymAjaxController1.php:109
 msgid "Enter Duration Number"
-msgstr "Insira o número da duração"
+msgstr "___Insira o número da duração"
 
 #: Controller/GymAjaxController.php:115 Controller/GymAjaxController1.php:113
 msgid "Select Duration"
-msgstr "Selecione a duração"
+msgstr "___Selecione a duração"
 
 #: Controller/GymAjaxController.php:116 Controller/GymAjaxController1.php:114
 #: Template/ClassSchedule/add_class.ctp:141
 msgid "Days"
-msgstr "Dias"
+msgstr "___Dias"
 
 #: Controller/GymAjaxController.php:117 Controller/GymAjaxController1.php:115
 msgid "Week"
-msgstr "Semana"
+msgstr "___Semana"
 
 #: Controller/GymAjaxController.php:118 Controller/GymAjaxController1.php:116
 #: Template/Dashboard/dashboard.ctp:163
 #: Template/Reports/monthlyworkoutreport.ctp:58
 #: Template/Reports/payment_report.ctp:39
 msgid "Month"
-msgstr "Mês"
+msgstr "___Mês"
 
 #: Controller/GymAjaxController.php:119 Controller/GymAjaxController1.php:117
 msgid "Year"
-msgstr "Ano"
+msgstr "___Ano"
 
 #: Controller/GymAjaxController.php:132 Controller/GymAjaxController1.php:130
 msgid "Plan"
-msgstr "Plano"
+msgstr "___Plano"
 
 #: Controller/GymAjaxController.php:199 Controller/GymAjaxController1.php:197
 msgid "Add/Remove Role"
-msgstr "Adicionar / Remover Função"
+msgstr "___Adicionar / Remover Função"
 
 #: Controller/GymAjaxController.php:204 Controller/GymAjaxController1.php:202
 msgid "Enter Role"
-msgstr "Insira a função"
+msgstr "___Insira a função"
 
 #: Controller/GymAjaxController.php:207 Controller/GymAjaxController.php:288
 #: Controller/GymAjaxController1.php:205 Controller/GymAjaxController1.php:286
 msgid "Add Role"
-msgstr "Adicionar papel"
+msgstr "___Adicionar papel"
 
 #: Controller/GymAjaxController.php:232 Controller/GymAjaxController1.php:230
 #: Controller/GymAjaxController1.php:311 Controller/GymAjaxController1.php:1007
 msgid "No roles added"
-msgstr "Nenhum papel adicionado"
+msgstr "___Nenhum papel adicionado"
 
 #: Controller/GymAjaxController.php:280 Controller/GymAjaxController1.php:278
 msgid "Add/Remove Specialization"
-msgstr "Adicionar / Remover Especialização"
+msgstr "___Adicionar / Remover Especialização"
 
 #: Controller/GymAjaxController.php:285 Controller/GymAjaxController1.php:283
 msgid "Enter Specialization"
-msgstr "Insira Especialização"
+msgstr "___Insira Especialização"
 
 #: Controller/GymAjaxController.php:313
 msgid "No Specialization added"
-msgstr "Nenhuma especialização adicionada"
+msgstr "___Nenhuma especialização adicionada"
 
 #: Controller/GymAjaxController.php:360 Controller/GymAjaxController1.php:358
 msgid "Add/Remove Interest"
-msgstr "Adicionar / Remover Interesse"
+msgstr "___Adicionar / Remover Interesse"
 
 #: Controller/GymAjaxController.php:365 Controller/GymAjaxController1.php:363
 msgid "Enter Interest"
-msgstr "Inserir juros"
+msgstr "___Inserir juros"
 
 #: Controller/GymAjaxController.php:368 Controller/GymAjaxController1.php:366
 msgid "Add Interest"
-msgstr "Adicionar juros"
+msgstr "___Adicionar juros"
 
 #: Controller/GymAjaxController.php:377 Controller/GymAjaxController1.php:375
 msgid "Interest"
-msgstr "Interesse"
+msgstr "___Interesse"
 
 #: Controller/GymAjaxController.php:393 Controller/GymAjaxController.php:471
 #: Controller/GymAjaxController.php:569 Controller/GymAjaxController1.php:391
 #: Controller/GymAjaxController1.php:469 Controller/GymAjaxController1.php:566
 msgid "No record added yet"
-msgstr "Nenhum registro adicionado ainda"
+msgstr "___Nenhum registro adicionado ainda"
 
 #: Controller/GymAjaxController.php:438 Controller/GymAjaxController1.php:436
 msgid "Add/Remove Source"
-msgstr "Adicionar / Remover Fonte"
+msgstr "___Adicionar / Remover Fonte"
 
 #: Controller/GymAjaxController.php:443 Controller/GymAjaxController1.php:441
 msgid "Enter Source"
-msgstr "Digite a fonte"
+msgstr "___Digite a fonte"
 
 #: Controller/GymAjaxController.php:446 Controller/GymAjaxController1.php:444
 msgid "Add Source"
-msgstr "Adicionar fonte"
+msgstr "___Adicionar fonte"
 
 #: Controller/GymAjaxController.php:455 Controller/GymAjaxController1.php:453
 msgid "Source List"
-msgstr "Lista de fontes"
+msgstr "___Lista de fontes"
 
 #: Controller/GymAjaxController.php:536 Controller/GymAjaxController1.php:533
 msgid "Add/Remove Levels"
-msgstr "Adicionar / Remover Níveis"
+msgstr "___Adicionar / Remover Níveis"
 
 #: Controller/GymAjaxController.php:541 Controller/GymAjaxController1.php:538
 msgid "Enter Level"
-msgstr "Entre no nível"
+msgstr "___Entre no nível"
 
 #: Controller/GymAjaxController.php:544 Controller/GymAjaxController.php:742
 #: Controller/GymAjaxController1.php:541 Controller/GymAjaxController1.php:726
 #: Template/GymAssignWorkout/assign_workout.ctp:99
 #: Template/GymAssignWorkout/assign_workout1.ctp:78
 msgid "Add Level"
-msgstr "Adicionar nível"
+msgstr "___Adicionar nível"
 
 #: Controller/GymAjaxController.php:553 Controller/GymAjaxController1.php:550
 msgid "Levels"
-msgstr "Níveis"
+msgstr "___Níveis"
 
 #: Controller/GymAjaxController.php:686 Controller/GymAjaxController.php:768
 #: Controller/GymAjaxController1.php:673 Controller/GymAjaxController1.php:750
@@ -532,7 +532,7 @@ msgstr "Níveis"
 #: Template/GymAssignWorkout/member_assiged_workout.ctp:63
 #: Template/GymAssignWorkout/print_workout.ctp:60
 msgid "Activity"
-msgstr "Atividade"
+msgstr "___Atividade"
 
 #: Controller/GymAjaxController.php:687 Controller/GymAjaxController.php:699
 #: Controller/GymAjaxController.php:769 Controller/GymAjaxController1.php:674
@@ -543,7 +543,7 @@ msgstr "Atividade"
 #: Template/GymAssignWorkout/print_workout.ctp:61
 #: Template/Reports/monthlyworkoutreport.ctp:79
 msgid "Sets"
-msgstr "Conjuntos"
+msgstr "___Conjuntos"
 
 #: Controller/GymAjaxController.php:688 Controller/GymAjaxController.php:700
 #: Controller/GymAjaxController.php:770 Controller/GymAjaxController1.php:675
@@ -554,7 +554,7 @@ msgstr "Conjuntos"
 #: Template/GymAssignWorkout/print_workout.ctp:62
 #: Template/Reports/monthlyworkoutreport.ctp:80
 msgid "Reps"
-msgstr "Reps"
+msgstr "___Reps"
 
 #: Controller/GymAjaxController.php:689 Controller/GymAjaxController.php:771
 #: Controller/GymAjaxController1.php:676 Controller/GymAjaxController1.php:753
@@ -563,7 +563,7 @@ msgstr "Reps"
 #: Template/GymAssignWorkout/member_assiged_workout.ctp:66
 #: Template/GymAssignWorkout/print_workout.ctp:63
 msgid "KG"
-msgstr "KG"
+msgstr "___KG"
 
 #: Controller/GymAjaxController.php:690 Controller/GymAjaxController.php:772
 #: Controller/GymAjaxController1.php:677 Controller/GymAjaxController1.php:754
@@ -573,138 +573,138 @@ msgstr "KG"
 #: Template/GymAssignWorkout/print_workout.ctp:64
 #: Template/Reports/monthlyworkoutreport.ctp:82
 msgid "Rest Time"
-msgstr "Tempo de descanso"
+msgstr "___Tempo de descanso"
 
 #: Controller/GymAjaxController.php:701 Controller/GymAjaxController1.php:688
 #: Template/Reports/monthlyworkoutreport.ctp:81
 msgid "Kg"
-msgstr "Kg"
+msgstr "___Kg"
 
 #: Controller/GymAjaxController.php:702 Controller/GymAjaxController1.php:689
 msgid "Min"
-msgstr "Minuto"
+msgstr "___Minuto"
 
 #: Controller/GymAjaxController.php:706 Controller/GymAjaxController1.php:693
 msgid "Your Workout"
-msgstr "Seu treino"
+msgstr "___Seu treino"
 
 #: Controller/GymAjaxController.php:713 Controller/GymAjaxController.php:791
 msgid "Note"
-msgstr "Nota"
+msgstr "___Nota"
 
 #: Controller/GymAjaxController.php:721 Controller/GymAjaxController1.php:705
 msgid "No Workout assigned for today.You can add data from below."
-msgstr "Nenhum treino atribuído para hoje. Você pode adicionar dados abaixo."
+msgstr "___Nenhum treino atribuído para hoje. Você pode adicionar dados abaixo."
 
 #: Controller/GymAjaxController.php:726 Controller/GymAjaxController1.php:710
 #: Template/GymAssignWorkout/assign_workout.ctp:92
 #: Template/GymAssignWorkout/assign_workout1.ctp:71
 msgid "Level"
-msgstr "Nível"
+msgstr "___Nível"
 
 #: Controller/GymAjaxController.php:729 Controller/GymAjaxController1.php:713
 #: Template/GymAssignWorkout/assign_workout.ctp:95
 #: Template/GymAssignWorkout/assign_workout1.ctp:74
 msgid "Select Level"
-msgstr "Selecione o nível"
+msgstr "___Selecione o nível"
 
 #: Controller/GymAjaxController.php:918 Controller/GymAjaxController1.php:874
 msgid "Edit/Delete Measurement"
-msgstr "Editar / Excluir Medição"
+msgstr "___Editar / Excluir Medição"
 
 #: Controller/GymAjaxController.php:926 Controller/GymAjaxController1.php:882
 msgid "Image"
-msgstr "Imagem"
+msgstr "___Imagem"
 
 #: Controller/GymAjaxController.php:927 Controller/GymAjaxController1.php:883
 msgid "Measurement"
-msgstr "Medição"
+msgstr "___Medição"
 
 #: Controller/GymAjaxController.php:928 Controller/GymAjaxController1.php:884
 #: Template/GymDailyWorkout/add_measurment.ctp:65
 msgid "Result"
-msgstr "Resultado"
+msgstr "___Resultado"
 
 #: Controller/GymAjaxController.php:929 Controller/GymAjaxController1.php:885
 msgid "Record Date"
-msgstr "Data da gravação"
+msgstr "___Data da gravação"
 
 #: Controller/GymAjaxController.php:952 Controller/GymAjaxController1.php:908
 msgid "No Data Found."
-msgstr "Nenhum dado encontrado."
+msgstr "___Nenhum dado encontrado."
 
 #: Controller/GymAjaxController.php:1018 Controller/GymAjaxController1.php:974
 msgid "Add/Remove Event Place"
-msgstr "Adicionar / Remover Local do Evento"
+msgstr "___Adicionar / Remover Local do Evento"
 
 #: Controller/GymAjaxController.php:1023 Controller/GymAjaxController1.php:979
 msgid "Enter Place Name"
-msgstr "Insira o nome do lugar"
+msgstr "___Insira o nome do lugar"
 
 #: Controller/GymAjaxController.php:1026 Controller/GymAjaxController1.php:982
 msgid "Add Place"
-msgstr "Adicionar local"
+msgstr "___Adicionar local"
 
 #: Controller/GymAjaxController.php:1035 Controller/GymAjaxController1.php:991
 msgid "Place Name"
-msgstr "Coloque o nome"
+msgstr "___Coloque o nome"
 
 #: Controller/GymAjaxController.php:1051
 msgid "No Event Place added"
-msgstr "Nenhum local de evento adicionado"
+msgstr "___Nenhum local de evento adicionado"
 
 #: Controller/GymAjaxController.php:1134 Controller/GymAjaxController1.php:1059
 msgid "Group Members"
-msgstr "Membros do grupo"
+msgstr "___Membros do grupo"
 
 #: Controller/GymAjaxController.php:1149 Controller/GymAjaxController1.php:1074
 msgid "No Members Assigned Yet."
-msgstr "Nenhum membro atribuído ainda."
+msgstr "___Nenhum membro atribuído ainda."
 
 #: Controller/GymAjaxController.php:1173 Controller/GymAjaxController.php:1207
 #: Controller/GymAjaxController1.php:1093
 #: Controller/GymAjaxController1.php:1127
 msgid "Add Payment"
-msgstr "Adicionar pagamento"
+msgstr "___Adicionar pagamento"
 
 #: Controller/GymAjaxController.php:1181 Controller/GymAjaxController1.php:1101
 #: Template/MembershipPayment/payment_list.ctp:52
 #: Template/MembershipPayment/payment_list.ctp:97
 msgid "Paid Amount"
-msgstr "Quantidade paga"
+msgstr "___Quantidade paga"
 
 #: Controller/GymAjaxController.php:1190 Controller/GymAjaxController1.php:1110
 msgid "Payment By"
-msgstr "Pagamento por"
+msgstr "___Pagamento por"
 
 #: Controller/GymAjaxController.php:1196 Controller/GymAjaxController1.php:1116
 msgid "Paypal"
-msgstr "Paypal"
+msgstr "___Paypal"
 
 #: Controller/GymAjaxController.php:1199 Controller/GymAjaxController1.php:1119
 msgid "Cash"
-msgstr "Dinheiro"
+msgstr "___Dinheiro"
 
 #: Controller/GymAjaxController.php:1200 Controller/GymAjaxController1.php:1120
 msgid "Cheque"
-msgstr "Verifica"
+msgstr "___Verifica"
 
 #: Controller/GymAjaxController.php:1201 Controller/GymAjaxController1.php:1121
 msgid "Bank Transfer"
-msgstr "Transferência bancária"
+msgstr "___Transferência bancária"
 
 #: Controller/GymAjaxController.php:1247 Controller/GymAjaxController.php:1399
 #: Controller/GymAjaxController1.php:1166
 #: Controller/GymAjaxController1.php:1315
 msgid "Invoice"
-msgstr "Fatura"
+msgstr "___Fatura"
 
 #: Controller/GymAjaxController.php:1260 Controller/GymAjaxController.php:1412
 #: Controller/GymAjaxController1.php:1179
 #: Controller/GymAjaxController1.php:1328
 #: Template/MembershipPayment/print_invoice.ctp:26
 msgid "Issue Date"
-msgstr "Data de emissão"
+msgstr "___Data de emissão"
 
 #: Controller/GymAjaxController.php:1261 Controller/GymAjaxController.php:1413
 #: Controller/GymAjaxController1.php:1180
@@ -720,61 +720,61 @@ msgstr "Data de emissão"
 #: Template/MembershipPayment/add_income.ctp:56
 #: Template/MembershipPayment/print_invoice.ctp:27
 msgid "Status"
-msgstr "Status"
+msgstr "___Status"
 
 #: Controller/GymAjaxController.php:1274 Controller/GymAjaxController.php:1426
 #: Controller/GymAjaxController1.php:1193
 #: Controller/GymAjaxController1.php:1342
 #: Template/MembershipPayment/print_invoice.ctp:37
 msgid "Payment To"
-msgstr "Pagamento para"
+msgstr "___Pagamento para"
 
 #: Controller/GymAjaxController.php:1277 Controller/GymAjaxController.php:1429
 #: Controller/GymAjaxController1.php:1196
 #: Controller/GymAjaxController1.php:1345
 #: Template/MembershipPayment/print_invoice.ctp:40
 msgid "Bill To"
-msgstr "Projeto de lei para"
+msgstr "___Projeto de lei para"
 
 #: Controller/GymAjaxController.php:1308 Controller/GymAjaxController1.php:1227
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:51
 #: Template/Element/sidebar.ctp:33 Template/GymAccessright/access_right.ctp:63
 #: Template/MembershipPayment/print_invoice.ctp:91
 msgid "Membership Type"
-msgstr "Tipo de Membro"
+msgstr "___Tipo de Membro"
 
 #: Controller/GymAjaxController.php:1309 Controller/GymAjaxController1.php:1228
 msgid "Sign Up Fee"
-msgstr "Taxa de inscrição"
+msgstr "___Taxa de inscrição"
 
 #: Controller/GymAjaxController.php:1310 Controller/GymAjaxController1.php:1229
 #: Template/MembershipPayment/print_invoice.ctp:92
 msgid "Membership Fee"
-msgstr "Taxa de associação"
+msgstr "___Taxa de associação"
 
 #: Controller/GymAjaxController.php:1311 Controller/GymAjaxController1.php:1230
 #: Template/MembershipPayment/print_invoice.ctp:93
 msgid "Total"
-msgstr "Total"
+msgstr "___Total"
 
 #: Controller/GymAjaxController.php:1325 Controller/GymAjaxController1.php:1244
 #: Template/MembershipPayment/print_invoice.ctp:170
 msgid "Subtotal :"
-msgstr "Subtotal:"
+msgstr "___Subtotal:"
 
 #: Controller/GymAjaxController.php:1329 Controller/GymAjaxController1.php:1248
 #: Template/MembershipPayment/print_invoice.ctp:174
 msgid "Payment Made :"
-msgstr "Pagamento realizado :"
+msgstr "___Pagamento realizado :"
 
 #: Controller/GymAjaxController.php:1333 Controller/GymAjaxController1.php:1252
 msgid "Due Amount  :"
-msgstr "Valor devido:"
+msgstr "___Valor devido:"
 
 #: Controller/GymAjaxController.php:1341 Controller/GymAjaxController1.php:1260
 #: Template/MembershipPayment/print_invoice.ctp:204
 msgid "Payment History"
-msgstr "Histórico de pagamento"
+msgstr "___Histórico de pagamento"
 
 #: Controller/GymAjaxController.php:1345 Controller/GymAjaxController.php:1467
 #: Controller/GymAjaxController1.php:1264
@@ -794,7 +794,7 @@ msgstr "Histórico de pagamento"
 #: Template/MembershipPayment/print_invoice.ctp:101
 #: Template/MembershipPayment/print_invoice.ctp:208
 msgid "Date"
-msgstr "Encontro"
+msgstr "___Encontro"
 
 #: Controller/GymAjaxController.php:1346 Controller/GymAjaxController1.php:1265
 #: Template/GymMember/view_member.ctp:388
@@ -809,34 +809,34 @@ msgstr "Encontro"
 #: Template/MembershipPayment/payment_list.ctp:96
 #: Template/MembershipPayment/print_invoice.ctp:209
 msgid "Amount"
-msgstr "Montante"
+msgstr "___Montante"
 
 #: Controller/GymAjaxController.php:1347 Controller/GymAjaxController1.php:1266
 #: Template/MembershipPayment/print_invoice.ctp:210
 msgid "Method"
-msgstr "Método"
+msgstr "___Método"
 
 #: Controller/GymAjaxController.php:1366 Controller/GymAjaxController.php:1502
 #: Controller/GymAjaxController1.php:1418
 #: Template/GymAssignWorkout/member_assiged_workout.ctp:55
 #: Template/GymNutrition/member_nutrition.ctp:54
 msgid "Print"
-msgstr "Impressão"
+msgstr "___Impressão"
 
 #: Controller/GymAjaxController.php:1462 Controller/GymAjaxController1.php:1378
 #: Template/MembershipPayment/print_invoice.ctp:83
 msgid "Invoice Entries"
-msgstr "Entradas de fatura"
+msgstr "___Entradas de fatura"
 
 #: Controller/GymAjaxController.php:1468 Controller/GymAjaxController1.php:1384
 #: Template/MembershipPayment/print_invoice.ctp:102
 msgid "Entry"
-msgstr "Entrada"
+msgstr "___Entrada"
 
 #: Controller/GymAjaxController.php:1469 Controller/GymAjaxController1.php:1385
 #: Template/MembershipPayment/print_invoice.ctp:103
 msgid "Price"
-msgstr "Preço"
+msgstr "___Preço"
 
 #: Controller/GymAjaxController.php:1470 Controller/GymAjaxController1.php:1386
 #: Template/AdminProfile/edit_profile.ctp:62
@@ -848,31 +848,31 @@ msgstr "Preço"
 #: Template/MembershipPayment/print_invoice.ctp:104
 #: Template/StaffMembers/add_staff.ctp:159 Template/Users/login.ctp:29
 msgid "Username"
-msgstr "Nome de usuário"
+msgstr "___Nome de usuário"
 
 #: Controller/GymAjaxController.php:1493 Controller/GymAjaxController1.php:1409
 #: Template/MembershipPayment/print_invoice.ctp:195
 msgid "Grand Total :"
-msgstr "Total geral :"
+msgstr "___Total geral :"
 
 #: Controller/GymAjaxController.php:1519 Controller/GymAjaxController1.php:1435
 msgid "Notice Detail"
-msgstr "Detalhe do aviso"
+msgstr "___Detalhe do aviso"
 
 #: Controller/GymAjaxController.php:1524 Controller/GymAjaxController1.php:1440
 msgid "Notice Title "
-msgstr "Título do aviso "
+msgstr "___Título do aviso "
 
 #: Controller/GymAjaxController.php:1529 Controller/GymAjaxController1.php:1445
 #: Template/GymNotice/notice_list.ctp:42 Template/GymNotice/notice_list.ctp:71
 msgid "Notice Comment"
-msgstr "Observação Comentário"
+msgstr "___Observação Comentário"
 
 #: Controller/GymAjaxController.php:1534 Controller/GymAjaxController1.php:1450
 #: Template/GymNotice/add_notice.ctp:64 Template/GymNotice/notice_list.ctp:43
 #: Template/GymNotice/notice_list.ctp:72
 msgid "Notice For"
-msgstr "Aviso para"
+msgstr "___Aviso para"
 
 #: Controller/GymAjaxController.php:1539 Controller/GymAjaxController1.php:1455
 #: Template/GymAssignWorkout/assign_workout.ctp:109
@@ -882,15 +882,15 @@ msgstr "Aviso para"
 #: Template/GymNotice/add_notice.ctp:82
 #: Template/GymNutrition/addnutrition_schedule.ctp:70
 msgid "Start Date"
-msgstr "Data de início"
+msgstr "___Data de início"
 
 #: Controller/GymAjaxController.php:1544 Controller/GymAjaxController1.php:1460
 msgid "End Date "
-msgstr "Data final "
+msgstr "___Data final "
 
 #: Controller/GymAjaxController1.php:736
 msgid "Category List"
-msgstr "Lista de categorias"
+msgstr "___Lista de categorias"
 
 #: Controller/GymAssignWorkoutController - copy.php:40
 #: Controller/GymAssignWorkoutController.php:40
@@ -904,35 +904,35 @@ msgstr "Lista de categorias"
 #: Template/GymAssignWorkout/workout_log.ctp:42
 #: Template/GymNutrition/member_nutrition.ctp:25
 msgid "Assign Workout"
-msgstr "Atribuir treino"
+msgstr "___Atribuir treino"
 
 #: Controller/GymAssignWorkoutController - copy.php:101 copy.php:293
 #: Controller/GymAssignWorkoutController.php:101
 #: Controller/GymAssignWorkoutController.php:291
 msgid "success! Record Saved Successfully."
-msgstr "sucesso! Registro salvo com sucesso."
+msgstr "___sucesso! Registro salvo com sucesso."
 
 #: Controller/GymAssignWorkoutController - copy.php:103
 #: Controller/GymAssignWorkoutController.php:104
 #: Controller/GymAssignWorkoutController.php:294
 msgid "Error! Workout days data couldn't saved.Please try again."
-msgstr "Erro! Os dados dos dias de treino não foram guardados.Tente novamente."
+msgstr "___Erro! Os dados dos dias de treino não foram guardados.Tente novamente."
 
 #: Controller/GymAssignWorkoutController - copy.php:108 copy.php:299
 #: Controller/GymAssignWorkoutController.php:109
 #: Controller/GymAssignWorkoutController.php:297
 msgid "Error! Record couldn't saved.Please try again."
-msgstr "Erro! O registro não pôde ser salvo. Tente novamente."
+msgstr "___Erro! O registro não pôde ser salvo. Tente novamente."
 
 #: Controller/GymAssignWorkoutController - copy.php:196
 #: Controller/GymAssignWorkoutController.php:197
 #: Template/GymDailyWorkout/view_workout.ctp:33
 msgid "View Workout"
-msgstr "Ver treino"
+msgstr "___Ver treino"
 
 #: Controller/GymAssignWorkoutController - copy.php:296
 msgid "Error! Workout days daya couldn't saved.Please try again."
-msgstr "Erro! Dias de treino daya não pôde ser salvo. Por favor, tente novamente."
+msgstr "___Erro! Dias de treino daya não pôde ser salvo. Por favor, tente novamente."
 
 #: Controller/GymAssignWorkoutController - copy.php:320
 #: Controller/GymAssignWorkoutController.php:318
@@ -941,49 +941,49 @@ msgstr "Erro! Dias de treino daya não pôde ser salvo. Por favor, tente novamen
 #: Controller/GymProductController.php:61 Controller/GymStoreController.php:111
 #: Controller/MembershipPaymentController.php:258
 msgid "Success! Record Deleted Successfully."
-msgstr "Sucesso! Registro excluído com sucesso."
+msgstr "___Sucesso! Registro excluído com sucesso."
 
 #: Controller/GymAttendanceController.php:85
 #: Controller/GymAttendanceController.php:149
 msgid "Success! Attendance Saved Successfully."
-msgstr "Sucesso! Presença salva com sucesso."
+msgstr "___Sucesso! Presença salva com sucesso."
 
 #: Controller/GymAttendanceController.php:153
 msgid "Error! Please Select Member/Staff-Member."
-msgstr "Erro! Por favor selecione Membro / Staff-Member."
+msgstr "___Erro! Por favor selecione Membro / Staff-Member."
 
 #: Controller/GymDailyWorkoutController.php:42
 #: Template/GymDailyWorkout/add_measurment.ctp:29
 #: Template/GymDailyWorkout/workout_list.ctp:43
 msgid "Add Workout"
-msgstr "Adicionar treino"
+msgstr "___Adicionar treino"
 
 #: Controller/GymDailyWorkoutController.php:243
 #: Template/GymDailyWorkout/add_workout.ctp:132
 #: Template/GymDailyWorkout/view_workout.ctp:39
 #: Template/GymDailyWorkout/workout_list.ctp:45
 msgid "Add Measurement"
-msgstr "Adicionar Medição"
+msgstr "___Adicionar Medição"
 
 #: Controller/GymDailyWorkoutController.php:410
 msgid "Edit Measurement"
-msgstr "Editar Medição"
+msgstr "___Editar Medição"
 
 #: Controller/GymEmailSettingController.php:56
 msgid "Test Email"
-msgstr "Email de teste"
+msgstr "___Email de teste"
 
 #: Controller/GymGroupController.php:23 Template/GymMember/add_member.ctp:215
 msgid "Add Group"
-msgstr "Adicionar grupo"
+msgstr "___Adicionar grupo"
 
 #: Controller/GymGroupController.php:39
 msgid "Success! Group Added Successfully."
-msgstr "Sucesso! Grupo adicionado com sucesso."
+msgstr "___Sucesso! Grupo adicionado com sucesso."
 
 #: Controller/GymGroupController.php:50
 msgid "Edit Group"
-msgstr "Editar grupo"
+msgstr "___Editar grupo"
 
 #: Controller/GymMemberController.php:61
 #: Template/GymAssignWorkout/assign_workout.ctp:87
@@ -992,303 +992,303 @@ msgstr "Editar grupo"
 #: Template/GymMember/member_list.ctp:45
 #: Template/GymNutrition/addnutrition_schedule.ctp:65
 msgid "Add Member"
-msgstr "Adicionar membro"
+msgstr "___Adicionar membro"
 
 #: Controller/GymMemberController.php:190
 msgid "Edit Member"
-msgstr "Editar membro"
+msgstr "___Editar membro"
 
 #: Controller/GymMemberController.php:446
 msgid "Success! Member activated successfully."
-msgstr "Sucesso! Membro ativado com sucesso."
+msgstr "___Sucesso! Membro ativado com sucesso."
 
 #: Controller/GymMessageController.php:154
 msgid "Success! Message Sent Successfully."
-msgstr "Sucesso! Mensagem enviada com sucesso."
+msgstr "___Sucesso! Mensagem enviada com sucesso."
 
 #: Controller/GymMessageController.php:156
 msgid "Error! Message Couldn't be Sent, Please Try Again."
-msgstr "Erro! A mensagem não pôde ser enviada, por favor, tente novamente."
+msgstr "___Erro! A mensagem não pôde ser enviada, por favor, tente novamente."
 
 #: Controller/GymMessageController.php:204
 msgid "Success! Message Deleted Successfully."
-msgstr "Sucesso! Mensagem excluída com sucesso."
+msgstr "___Sucesso! Mensagem excluída com sucesso."
 
 #: Controller/GymNewsletterController.php:36
 msgid "Success! Api Key Saved successfully."
-msgstr "Sucesso! Chave de API salva com sucesso."
+msgstr "___Sucesso! Chave de API salva com sucesso."
 
 #: Controller/GymNewsletterController.php:44
 msgid "Success! Api Key Updated successfully."
-msgstr "Sucesso! Chave de Api atualizada com sucesso."
+msgstr "___Sucesso! Chave de Api atualizada com sucesso."
 
 #: Controller/GymNewsletterController.php:94
 msgid "Success! Mail Synchronize Successfully Done."
-msgstr "Sucesso! Mail Synchronize Feito com Sucesso."
+msgstr "___Sucesso! Mail Synchronize Feito com Sucesso."
 
 #: Controller/GymNewsletterController.php:131
 msgid "Campaign Tests Not Sent!"
-msgstr "Testes de campanha não enviados"
+msgstr "___Testes de campanha não enviados"
 
 #: Controller/GymNewsletterController.php:133
 msgid "Campaign Tests Sent!"
-msgstr "Testes de campanha enviados!"
+msgstr "___Testes de campanha enviados!"
 
 #: Controller/GymNoticeController.php:65 Controller/GymProductController.php:31
 #: Controller/GymStoreController.php:49
 msgid "Error! Record Not Saved.Please Try Again."
-msgstr "Erro! Registro não salvo.Por favor, tente novamente."
+msgstr "___Erro! Registro não salvo.Por favor, tente novamente."
 
 #: Controller/GymNoticeController.php:91
 msgid "Success! Record Successfully Updated."
-msgstr "Sucesso! Registro com sucesso atualizado."
+msgstr "___Sucesso! Registro com sucesso atualizado."
 
 #: Controller/GymNoticeController.php:94 Controller/GymProductController.php:49
 #: Controller/GymStoreController.php:93
 msgid "Error! Record Not Updated.Please Try Again."
-msgstr "Erro! Registro não atualizado.Por favor, tente novamente."
+msgstr "___Erro! Registro não atualizado.Por favor, tente novamente."
 
 #: Controller/GymNoticeController.php:105
 msgid "Success! Record Deleted Successfully Updated."
-msgstr "Sucesso! Registro excluído com êxito atualizado."
+msgstr "___Sucesso! Registro excluído com êxito atualizado."
 
 #: Controller/GymNutritionController.php:40
 #: Template/GymNutrition/nutrition_list.ctp:42
 msgid "Add Nutrition Schedule"
-msgstr "Adicionar cronograma de nutrição"
+msgstr "___Adicionar cronograma de nutrição"
 
 #: Controller/GymNutritionController.php:77
 #: Controller/GymNutritionController.php:217
 msgid "Success! Nutrition Added Sucessfully."
-msgstr "Sucesso! Nutrição Adicionado com Sucesso."
+msgstr "___Sucesso! Nutrição Adicionado com Sucesso."
 
 #: Controller/GymNutritionController.php:81
 #: Controller/GymNutritionController.php:221
 msgid "Error! Nutrition data couldn't saved.Please try again."
-msgstr "Erro! Os dados nutricionais não foram salvos. Tente novamente."
+msgstr "___Erro! Os dados nutricionais não foram salvos. Tente novamente."
 
 #: Controller/GymNutritionController.php:85
 #: Controller/GymNutritionController.php:225
 msgid "Error! Nutrition Schedule couldn't saved.Please try again."
-msgstr "Erro! O cronograma de nutrição não foi salvo.Tente novamente."
+msgstr "___Erro! O cronograma de nutrição não foi salvo.Tente novamente."
 
 #: Controller/GymNutritionController.php:172
 msgid "View Nutrition Schedule"
-msgstr "Ver programação de nutrição"
+msgstr "___Ver programação de nutrição"
 
 #: Controller/GymProfileController.php:30
 msgid "Error! New password and confirm password does not matched.Please try again."
-msgstr "Erro! Nova senha e confirmar senha não correspondidas.Por favor, tente novamente."
+msgstr "___Erro! Nova senha e confirmar senha não correspondidas.Por favor, tente novamente."
 
 #: Controller/GymProfileController.php:37
 msgid "Success! Password Updated Successfully"
-msgstr "Sucesso! Senha atualizada com sucesso"
+msgstr "___Sucesso! Senha atualizada com sucesso"
 
 #: Controller/GymProfileController.php:41
 msgid "Error! Current password is wrong.Please try again."
-msgstr "Erro! A senha atual está errada. Tente novamente."
+msgstr "___Erro! A senha atual está errada. Tente novamente."
 
 #: Controller/GymProfileController.php:65
 msgid "Success! Information Updated Successfully"
-msgstr "Sucesso! Informação atualizada com sucesso"
+msgstr "___Sucesso! Informação atualizada com sucesso"
 
 #: Controller/GymProfileController.php:69
 msgid "Error! Not Update.Please try again."
-msgstr "Erro! Não atualizar.Por favor, tente novamente."
+msgstr "___Erro! Não atualizar.Por favor, tente novamente."
 
 #: Controller/GymStoreController.php:52 Controller/GymStoreController.php:96
 msgid "Only "
-msgstr "Somente "
+msgstr "___Somente "
 
 #: Controller/MemberRegistrationController.php:108
 msgid "Registration completed successfully. You will get email after activation"
-msgstr "Registro concluído com sucesso. Você receberá um email após a ativação"
+msgstr "___Registro concluído com sucesso. Você receberá um email após a ativação"
 
 #: Controller/MembershipController.php:23 Template/Activity/add_activity.ctp:86
 #: Template/GymMember/add_member.ctp:425
 #: Template/Membership/edit_membership.ctp:7
 msgid "Add Membership"
-msgstr "Adicionar filiação"
+msgstr "___Adicionar filiação"
 
 #: Controller/MembershipController.php:67
 msgid "Error! There was an error while saving,Please try again later."
-msgstr "Erro! Ocorreu um erro ao salvar. Por favor, tente novamente mais tarde."
+msgstr "___Erro! Ocorreu um erro ao salvar. Por favor, tente novamente mais tarde."
 
 #: Controller/MembershipController.php:99
 msgid "Edit Membership"
-msgstr "Editar afiliação"
+msgstr "___Editar afiliação"
 
 #: Controller/MembershipController.php:198
 msgid "Success! Activity Successfully Assigned."
-msgstr "Sucesso! Atividade Atribuída com Sucesso."
+msgstr "___Sucesso! Atividade Atribuída com Sucesso."
 
 #: Controller/MembershipController.php:208
 msgid "Success! Activity Unassigned Successfully."
-msgstr "Sucesso! Atividade não atribuída com sucesso."
+msgstr "___Sucesso! Atividade não atribuída com sucesso."
 
 #: Controller/MembershipPaymentController.php:63
 #: Controller/MembershipPaymentController.php:113
 msgid "Success! Payment Added Successfully."
-msgstr "Sucesso! Pagamento adicionado com sucesso."
+msgstr "___Sucesso! Pagamento adicionado com sucesso."
 
 #: Controller/MembershipPaymentController.php:166
 msgid "Success! Payment Record Deleted Successfully."
-msgstr "Sucesso! Registro de pagamento excluído com sucesso."
+msgstr "___Sucesso! Registro de pagamento excluído com sucesso."
 
 #: Controller/MembershipPaymentController.php:406
 #: Controller/MembershipPaymentController.php:427
 msgid "Success! Payment Successfully Completed."
-msgstr "Sucesso! Pagamento concluído com sucesso."
+msgstr "___Sucesso! Pagamento concluído com sucesso."
 
 #: Controller/MembershipPaymentController.php:430
 msgid "Paypal Payment IPN save failed to DB."
-msgstr "Paypal Payment IPN save falhou no banco de dados."
+msgstr "___Paypal Payment IPN save falhou no banco de dados."
 
 #: Controller/StaffMembersController.php:22
 #: Template/Activity/add_activity.ctp:74
 #: Template/StaffMembers/staff_list.ctp:37
 msgid "Add Staff Member"
-msgstr "Adicionar membro do pessoal"
+msgstr "___Adicionar membro do pessoal"
 
 #: Controller/StaffMembersController.php:75
 msgid "Edit Staff Member"
-msgstr "Editar membro do pessoal"
+msgstr "___Editar membro do pessoal"
 
 #: Controller/StaffMembersController.php:132
 msgid "Success! Staff Member Deleted Successfully."
-msgstr "Sucesso! Membro da equipe excluído com sucesso."
+msgstr "___Sucesso! Membro da equipe excluído com sucesso."
 
 #: Controller/UsersController.php:47
 msgid "Sorry, Your account is expired."
-msgstr "Desculpe, sua conta expirou."
+msgstr "___Desculpe, sua conta expirou."
 
 #: Controller/UsersController.php:57
 msgid "Error! Your account not activated yet!"
-msgstr "Erro! Sua conta ainda não está ativada!"
+msgstr "___Erro! Sua conta ainda não está ativada!"
 
 #: Controller/UsersController.php:97
 msgid "Invalid username or password, try again"
-msgstr "Nome de usuário ou senha inválidos, tente novamente"
+msgstr "___Nome de usuário ou senha inválidos, tente novamente"
 
 #: View/Helper/GymHelper.php:272
 msgid "Not Taken"
-msgstr "Não pego"
+msgstr "___Não pego"
 
 #: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:80
 #: Template/Element/sidebar.ctp:62
 msgid "Members"
-msgstr "Membros"
+msgstr "___Membros"
 
 #: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
 msgid "Staff Members"
-msgstr "Membros do pessoal"
+msgstr "___Membros do pessoal"
 
 #: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
 msgid "Accountants"
-msgstr "Contadores"
+msgstr "___Contadores"
 
 #: View/Helper/GymHelper.php:309
 msgid "Administrator"
-msgstr "Administrador"
+msgstr "___Administrador"
 
 #: View/Helper/GymHelper.php:524
 msgid "No data available in table"
-msgstr "Sem dados disponíveis na tabela"
+msgstr "___Sem dados disponíveis na tabela"
 
 #: View/Helper/GymHelper.php:525
 msgid "Showing _START_ to _END_ of _TOTAL_ entries"
-msgstr "mostrando o início ao fim do total de entradas"
+msgstr "___mostrando o início ao fim do total de entradas"
 
 #: View/Helper/GymHelper.php:526
 msgid "Showing 0 to 0 of 0 entries"
-msgstr "Mostrando 0 a 0 de 0 entradas"
+msgstr "___Mostrando 0 a 0 de 0 entradas"
 
 #: View/Helper/GymHelper.php:527
 msgid "(filtered from _MAX_ total entries)"
-msgstr "(filtrado do total máximo de entradas)"
+msgstr "___(filtrado do total máximo de entradas)"
 
 #: View/Helper/GymHelper.php:530
 msgid "Show _MENU_ entries"
-msgstr "mostre entradas do menu"
+msgstr "___mostre entradas do menu"
 
 #: View/Helper/GymHelper.php:531
 msgid "Loading..."
-msgstr "Carregando..."
+msgstr "___Carregando..."
 
 #: View/Helper/GymHelper.php:532
 msgid "Processing..."
-msgstr "Em processamento..."
+msgstr "___Em processamento..."
 
 #: View/Helper/GymHelper.php:533
 msgid "Search"
-msgstr "Procurar"
+msgstr "___Procurar"
 
 #: View/Helper/GymHelper.php:534
 msgid "No matching records found"
-msgstr "Nenhum registro correspondente encontrado"
+msgstr "___Nenhum registro correspondente encontrado"
 
 #: View/Helper/GymHelper.php:536
 msgid "First"
-msgstr "Primeiro"
+msgstr "___Primeiro"
 
 #: View/Helper/GymHelper.php:537
 msgid "Last"
-msgstr "Último"
+msgstr "___Último"
 
 #: View/Helper/GymHelper.php:538
 msgid "Next"
-msgstr "Próximo"
+msgstr "___Próximo"
 
 #: View/Helper/GymHelper.php:539
 msgid "Previous"
-msgstr "Anterior"
+msgstr "___Anterior"
 
 #: View/Helper/GymHelper.php:542
 msgid "activate to sort column ascending"
-msgstr "ativar para classificar coluna ascendente"
+msgstr "___ativar para classificar coluna ascendente"
 
 #: View/Helper/GymHelper.php:543
 msgid "activate to sort column descending"
-msgstr "ativar para classificar coluna descendente"
+msgstr "___ativar para classificar coluna descendente"
 
 #: Template/Activity/activity_list.ctp:30 Template/Activity/add_activity.ctp:35
 msgid "Activity List"
-msgstr "Lista de atividades"
+msgstr "___Lista de atividades"
 
 #: Template/Activity/activity_list.ctp:47
 #: Template/Activity/activity_list.ctp:75
 #: Template/Membership/view_activity.ctp:73
 #: Template/Membership/view_activity.ctp:97
 msgid "Activity Name"
-msgstr "Nome da Atividade"
+msgstr "___Nome da Atividade"
 
 #: Template/Activity/activity_list.ctp:48
 #: Template/Activity/activity_list.ctp:76
 #: Template/Membership/view_activity.ctp:74
 #: Template/Membership/view_activity.ctp:98
 msgid "Activity Category"
-msgstr "Categoria de atividade"
+msgstr "___Categoria de atividade"
 
 #: Template/Activity/activity_list.ctp:49
 #: Template/Activity/activity_list.ctp:77
 #: Template/Membership/view_activity.ctp:75
 #: Template/Membership/view_activity.ctp:99
 msgid "Activity Trainer"
-msgstr "Treinador de Atividades"
+msgstr "___Treinador de Atividades"
 
 #: Template/Activity/add_activity.ctp:45 Template/Activity/add_activity.ctp:48
 #: Template/Membership/add.ctp:90 Template/Membership/edit_membership.ctp:26
 msgid "Select Category"
-msgstr "Selecione a Categoria"
+msgstr "___Selecione a Categoria"
 
 #: Template/Activity/add_activity.ctp:56
 msgid "Activity Title"
-msgstr "Título da atividade"
+msgstr "___Título da atividade"
 
 #: Template/Activity/add_activity.ctp:64
 msgid "Assign to Staff Member"
-msgstr "Atribuir ao membro do pessoal"
+msgstr "___Atribuir ao membro do pessoal"
 
 #: Template/Activity/add_activity.ctp:68
 #: Template/ClassSchedule/add_class.ctp:51
@@ -1297,25 +1297,25 @@ msgstr "Atribuir ao membro do pessoal"
 #: Template/GymMember/add_member.ctp:353 Template/GymMember/add_member.ctp:355
 #: Template/GymMember/add_member.ctp:385
 msgid "Select Staff Member"
-msgstr "Selecione o membro do pessoal"
+msgstr "___Selecione o membro do pessoal"
 
 #: Template/Activity/add_activity.ctp:79 Template/GymMember/add_member.ctp:422
 #: Template/MemberRegistration/index.ctp:261
 #: Template/MembershipPayment/generate_payment_invoice.ctp:78
 msgid "Select Membership"
-msgstr "Selecione um membro"
+msgstr "___Selecione um membro"
 
 #: Template/Activity/add_activity.ctp:90
 msgid "Save Activity"
-msgstr "Salvar atividade"
+msgstr "___Salvar atividade"
 
 #: Template/AdminProfile/edit_profile.ctp:25
 msgid "Profile Setting"
-msgstr "Configuração de perfil"
+msgstr "___Configuração de perfil"
 
 #: Template/AdminProfile/edit_profile.ctp:26
 msgid "Admin"
-msgstr "Admin"
+msgstr "___Admin"
 
 #: Template/AdminProfile/edit_profile.ctp:34
 #: Template/GymAccountant/add_accountant.ctp:42
@@ -1323,7 +1323,7 @@ msgstr "Admin"
 #: Template/MemberRegistration/index.ctp:104
 #: Template/StaffMembers/add_staff.ctp:58
 msgid "Personal Information"
-msgstr "Informação pessoal"
+msgstr "___Informação pessoal"
 
 #: Template/AdminProfile/edit_profile.ctp:39
 #: Template/GymAccountant/add_accountant.ctp:44
@@ -1331,7 +1331,7 @@ msgstr "Informação pessoal"
 #: Template/MemberRegistration/index.ctp:115
 #: Template/StaffMembers/add_staff.ctp:60
 msgid "First Name"
-msgstr "Primeiro nome"
+msgstr "___Primeiro nome"
 
 #: Template/AdminProfile/edit_profile.ctp:46
 #: Template/GymAccountant/add_accountant.ctp:58
@@ -1339,7 +1339,7 @@ msgstr "Primeiro nome"
 #: Template/MemberRegistration/index.ctp:129
 #: Template/StaffMembers/add_staff.ctp:74
 msgid "Last Name"
-msgstr "Último nome"
+msgstr "___Último nome"
 
 #: Template/AdminProfile/edit_profile.ctp:53
 #: Template/GeneralSetting/save_setting.ctp:159
@@ -1351,7 +1351,7 @@ msgstr "Último nome"
 #: Template/MemberRegistration/index.ctp:209
 #: Template/StaffMembers/add_staff.ctp:150
 msgid "Email"
-msgstr "O email"
+msgstr "___O email"
 
 #: Template/AdminProfile/edit_profile.ctp:60
 #: Template/GymAccountant/add_accountant.ctp:122
@@ -1359,7 +1359,7 @@ msgstr "O email"
 #: Template/MemberRegistration/index.ctp:216
 #: Template/StaffMembers/add_staff.ctp:157
 msgid "Login Information"
-msgstr "Informações de Login"
+msgstr "___Informações de Login"
 
 #: Template/AdminProfile/edit_profile.ctp:69
 #: Template/GymAccountant/add_accountant.ctp:131
@@ -1367,7 +1367,7 @@ msgstr "Informações de Login"
 #: Template/Installer/index.ctp:562 Template/MemberRegistration/index.ctp:226
 #: Template/StaffMembers/add_staff.ctp:166 Template/Users/login.ctp:30
 msgid "Password"
-msgstr "Senha"
+msgstr "___Senha"
 
 #: Template/AdminProfile/edit_profile.ctp:76
 #: Template/GymAccountant/add_accountant.ctp:138
@@ -1376,11 +1376,11 @@ msgstr "Senha"
 #: Template/MemberRegistration/index.ctp:233
 #: Template/StaffMembers/add_staff.ctp:173
 msgid "Display Image"
-msgstr "Exibir imagem"
+msgstr "___Exibir imagem"
 
 #: Template/AdminProfile/edit_profile.ctp:86
 msgid "Save Details"
-msgstr "Salvar Detalhes"
+msgstr "___Salvar Detalhes"
 
 #: Template/Cell/GymRenderMenu/acc_menu.ctp:8
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:46
@@ -1388,7 +1388,7 @@ msgstr "Salvar Detalhes"
 #: Template/Cell/GymRenderMenu/staff_menu.ctp:17
 #: Template/Element/sidebar.ctp:28
 msgid "Dashboard"
-msgstr "painel de controle"
+msgstr "___painel de controle"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:56
 #: Template/Dashboard/dashboard.ctp:83
@@ -1399,12 +1399,12 @@ msgstr "painel de controle"
 #: Template/GymGroup/group_list.ctp:34 Template/GymMember/add_member.ctp:210
 #: Template/MemberRegistration/index.ctp:154
 msgid "Group"
-msgstr "Grupo"
+msgstr "___Grupo"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:61
 #: Template/Element/sidebar.ctp:43
 msgid "Class & Nutrition Schedule"
-msgstr "Agenda de Classe e Nutrição"
+msgstr "___Agenda de Classe e Nutrição"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:66
 #: Template/ClassSchedule/add_class.ctp:32
@@ -1412,7 +1412,7 @@ msgstr "Agenda de Classe e Nutrição"
 #: Template/ClassSchedule/view_schedule.ctp:10 Template/Element/sidebar.ctp:48
 #: Template/GymAccessright/access_right.ctp:183
 msgid "Class Schedule"
-msgstr "Horário de aula"
+msgstr "___Horário de aula"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:70
 #: Template/Element/sidebar.ctp:52 Template/GymAccessright/access_right.ctp:603
@@ -1421,12 +1421,12 @@ msgstr "Horário de aula"
 #: Template/GymNutrition/nutrition_list.ctp:35
 #: Template/GymNutrition/nutrition_list.ctp:36
 msgid "Nutrition Schedule"
-msgstr "Horário de Nutrição"
+msgstr "___Horário de Nutrição"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:76
 #: Template/Element/sidebar.ctp:58
 msgid "Member Management"
-msgstr "Gestão de membros"
+msgstr "___Gestão de membros"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:89
 #: Template/Element/sidebar.ctp:71 Template/GymAccessright/access_right.ctp:25
@@ -1435,43 +1435,43 @@ msgstr "Gestão de membros"
 #: Template/GymAccountant/add_accountant.ctp:31
 #: Template/GymNotice/add_notice.ctp:67
 msgid "Accountant"
-msgstr "Contador"
+msgstr "___Contador"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:101
 #: Template/Element/sidebar.ctp:83 Template/GymDailyWorkout/add_workout.ctp:194
 msgid "Workout"
-msgstr "Exercite-se"
+msgstr "___Exercite-se"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:109
 #: Template/Element/sidebar.ctp:91
 msgid "Daily Workout"
-msgstr "Treino Diário"
+msgstr "___Treino Diário"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:116
 #: Template/Element/sidebar.ctp:98
 msgid "Store & Products"
-msgstr "Loja e Produtos"
+msgstr "___Loja e Produtos"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:120
 #: Template/Element/sidebar.ctp:102
 #: Template/GymAccessright/access_right.ctp:422
 #: Template/GymStore/sell_product.ctp:60
 msgid "Product"
-msgstr "produtos"
+msgstr "___produtos"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:124
 #: Template/Element/sidebar.ctp:106
 #: Template/GymAccessright/access_right.ctp:452
 #: Template/GymStore/sell_product.ctp:35 Template/GymStore/sell_record.ctp:23
 msgid "Store"
-msgstr "Loja"
+msgstr "___Loja"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:131
 #: Template/Element/sidebar.ctp:113
 #: Template/GymAccessright/access_right.ctp:633
 #: Template/GymReservation/reservation_list.ctp:35
 msgid "Event"
-msgstr "Evento"
+msgstr "___Evento"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:136
 #: Template/Element/sidebar.ctp:118 Template/GymAttendance/attendance.ctp:23
@@ -1479,7 +1479,7 @@ msgstr "Evento"
 #: Template/GymMember/member_list.ctp:88
 #: Template/GymMember/view_attendance.ctp:70
 msgid "Attendance"
-msgstr "Comparecimento"
+msgstr "___Comparecimento"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:141
 #: Template/Dashboard/dashboard.ctp:171 Template/Dashboard/dashboard.ctp:186
@@ -1487,12 +1487,12 @@ msgstr "Comparecimento"
 #: Template/MembershipPayment/generate_payment_invoice.ctp:50
 #: Template/MembershipPayment/payment_list.ctp:32
 msgid "Payment"
-msgstr "Forma de pagamento"
+msgstr "___Forma de pagamento"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:146
 #: Template/Element/sidebar.ctp:128
 msgid "Membership Payment"
-msgstr "Pagamento de adesão"
+msgstr "___Pagamento de adesão"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:151
 #: Template/Element/sidebar.ctp:133
@@ -1500,12 +1500,12 @@ msgstr "Pagamento de adesão"
 #: Template/MembershipPayment/add_income.ctp:31
 #: Template/MembershipPayment/income_list.ctp:27
 msgid "Income"
-msgstr "Renda"
+msgstr "___Renda"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:156
 #: Template/Element/sidebar.ctp:138
 msgid "Expenses"
-msgstr "Despesas"
+msgstr "___Despesas"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:164
 #: Template/Dashboard/dashboard.ctp:96
@@ -1516,7 +1516,7 @@ msgstr "Despesas"
 #: Template/GymMessage/compose_message.ctp:14 Template/GymMessage/inbox.ctp:10
 #: Template/GymMessage/sent.ctp:9 Template/GymMessage/view_message.ctp:9
 msgid "Message"
-msgstr "mensagem"
+msgstr "___mensagem"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:169
 #: Template/Element/sidebar.ctp:151
@@ -1524,102 +1524,102 @@ msgstr "mensagem"
 #: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
 #: Template/GymNewsletter/sync_mail.ctp:1
 msgid "Newsletter"
-msgstr "Boletim de Notícias"
+msgstr "___Boletim de Notícias"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:174
 #: Template/Element/sidebar.ctp:156
 #: Template/GymAccessright/access_right.ctp:542
 #: Template/GymNotice/add_notice.ctp:47 Template/GymNotice/notice_list.ctp:25
 msgid "Notice"
-msgstr "Aviso prévio"
+msgstr "___Aviso prévio"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:179
 #: Template/Cell/GymRenderMenu/member_menu.ctp:45
 #: Template/Element/sidebar.ctp:170
 #: Template/GymAccessright/access_right.ctp:572
 msgid "Report"
-msgstr "Relatório"
+msgstr "___Relatório"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:184
 msgid "Email Settings"
-msgstr "Configurações de email"
+msgstr "___Configurações de email"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:190
 msgid "SubscriptionHistory"
-msgstr "Histórico de Assinaturas"
+msgstr "___Histórico de Assinaturas"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:195
 #: Template/Element/sidebar.ctp:175 Template/GeneralSetting/save_setting.ctp:15
 msgid "General Settings"
-msgstr "Configurações Gerais"
+msgstr "___Configurações Gerais"
 
 #: Template/Cell/GymRenderMenu/admin_menu.ctp:200
 #: Template/Element/sidebar.ctp:180 Template/GymAccessright/access_right.ctp:14
 msgid "Access Right"
-msgstr "Acesso direito"
+msgstr "___Acesso direito"
 
 #: Template/ClassSchedule/add_class.ctp:35
 #: Template/ClassSchedule/class_list.ctp:39
 #: Template/ClassSchedule/view_schedule.ctp:13
 #: Template/GymNewsletter/sync_mail.ctp:1
 msgid "Class List"
-msgstr "Lista de turmas"
+msgstr "___Lista de turmas"
 
 #: Template/ClassSchedule/add_class.ctp:44
 #: Template/ClassSchedule/class_list.ctp:61
 #: Template/ClassSchedule/class_list.ctp:95
 msgid "Class Name"
-msgstr "Nome da classe"
+msgstr "___Nome da classe"
 
 #: Template/ClassSchedule/add_class.ctp:59
 #: Template/ClassSchedule/add_class.ctp:74
 msgid "Add"
-msgstr "Adicionar"
+msgstr "___Adicionar"
 
 #: Template/ClassSchedule/add_class.ctp:66
 msgid "Select Assistant Staff Member"
-msgstr "Selecione o assistente pessoal"
+msgstr "___Selecione o assistente pessoal"
 
 #: Template/ClassSchedule/add_class.ctp:80
 #: Template/ClassSchedule/class_list.ctp:65
 #: Template/ClassSchedule/class_list.ctp:99
 msgid "Location"
-msgstr "Localização"
+msgstr "___Localização"
 
 #: Template/ClassSchedule/add_class.ctp:87
 #: Template/GymAssignWorkout/assign_workout.ctp:129
 #: Template/GymAssignWorkout/assign_workout1.ctp:108
 #: Template/GymNutrition/addnutrition_schedule.ctp:90
 msgid "Select Days"
-msgstr "Selecione Dias"
+msgstr "___Selecione Dias"
 
 #: Template/ClassSchedule/add_class.ctp:89
 msgid "Sunday"
-msgstr "domingo"
+msgstr "___domingo"
 
 #: Template/ClassSchedule/add_class.ctp:89
 msgid "Monday"
-msgstr "Segunda-feira"
+msgstr "___Segunda-feira"
 
 #: Template/ClassSchedule/add_class.ctp:89
 msgid "Tuesday"
-msgstr "terça"
+msgstr "___terça"
 
 #: Template/ClassSchedule/add_class.ctp:89
 msgid "Wednesday"
-msgstr "Quarta-feira"
+msgstr "___Quarta-feira"
 
 #: Template/ClassSchedule/add_class.ctp:89
 msgid "Thursday"
-msgstr "Quinta-feira"
+msgstr "___Quinta-feira"
 
 #: Template/ClassSchedule/add_class.ctp:89
 msgid "Friday"
-msgstr "Sexta-feira"
+msgstr "___Sexta-feira"
 
 #: Template/ClassSchedule/add_class.ctp:89
 msgid "Saturday"
-msgstr "sábado"
+msgstr "___sábado"
 
 #: Template/ClassSchedule/add_class.ctp:125
 #: Template/ClassSchedule/add_class.ctp:141
@@ -1627,50 +1627,50 @@ msgstr "sábado"
 #: Template/GymReservation/reservation_list.ctp:54
 #: Template/GymReservation/reservation_list.ctp:86
 msgid "Start Time"
-msgstr "Hora de início"
+msgstr "___Hora de início"
 
 #: Template/ClassSchedule/add_class.ctp:132
 #: Template/ClassSchedule/add_class.ctp:141
 #: Template/GymReservation/add_reservation.ctp:110
 msgid "End Time"
-msgstr "Fim do tempo"
+msgstr "___Fim do tempo"
 
 #: Template/ClassSchedule/add_class.ctp:137
 msgid "Add Time"
-msgstr "Tempo extra"
+msgstr "___Tempo extra"
 
 #: Template/ClassSchedule/add_class.ctp:173
 #: Template/GymReservation/add_reservation.ctp:142
 msgid "Save Class"
-msgstr "Salvar Classe"
+msgstr "___Salvar Classe"
 
 #: Template/ClassSchedule/class_list.ctp:46
 #: Template/ClassSchedule/view_schedule.ctp:9
 msgid "Class Schedules"
-msgstr "Horários de aula"
+msgstr "___Horários de aula"
 
 #: Template/ClassSchedule/class_list.ctp:62
 #: Template/ClassSchedule/class_list.ctp:96
 msgid "Staff Name"
-msgstr "Nome da equipe"
+msgstr "___Nome da equipe"
 
 #: Template/ClassSchedule/class_list.ctp:63
 #: Template/ClassSchedule/class_list.ctp:97
 msgid "Starting Time"
-msgstr "Hora de início"
+msgstr "___Hora de início"
 
 #: Template/ClassSchedule/class_list.ctp:64
 #: Template/ClassSchedule/class_list.ctp:98
 #: Template/GymReservation/reservation_list.ctp:55
 #: Template/GymReservation/reservation_list.ctp:87
 msgid "Ending Time"
-msgstr "Tempo final"
+msgstr "___Tempo final"
 
 #: Template/ClassSchedule/view_schedule.ctp:43
 #: Template/GymNotice/notice_list.ctp:60
 #: Template/GymProduct/product_list.ctp:65 Template/GymStore/sell_record.ctp:51
 msgid "Edit"
-msgstr "Editar"
+msgstr "___Editar"
 
 #: Template/Dashboard/dashboard.ctp:58
 #: Template/Dashboard/member_dashboard.ctp:61
@@ -1687,7 +1687,7 @@ msgstr "Editar"
 #: Template/MembershipPayment/add_income.ctp:43
 #: Template/MembershipPayment/generate_payment_invoice.ctp:64
 msgid "Member"
-msgstr "Membro"
+msgstr "___Membro"
 
 #: Template/Dashboard/dashboard.ctp:106
 #: Template/Dashboard/member_dashboard.ctp:134
@@ -1700,18 +1700,18 @@ msgstr "Membro"
 #: Template/Membership/view_activity.ctp:40
 #: Template/MembershipPayment/generate_payment_invoice.ctp:76
 msgid "Membership"
-msgstr "Filiação"
+msgstr "___Filiação"
 
 #: Template/Dashboard/dashboard.ctp:124
 #: Template/Dashboard/member_dashboard.ctp:158
 #: Template/Dashboard/staff_acc_dashboard.ctp:187
 #: Template/GymGroup/add_group.ctp:21 Template/GymGroup/group_list.ctp:27
 msgid "Group List"
-msgstr "Lista de grupos"
+msgstr "___Lista de grupos"
 
 #: Template/Dashboard/dashboard.ctp:154
 msgid "Payment by month"
-msgstr "Pagamento por mês"
+msgstr "___Pagamento por mês"
 
 #: Template/Dashboard/dashboard.ctp:192 Template/Dashboard/dashboard.ctp:247
 #: Template/Dashboard/dashboard.ctp:298
@@ -1730,112 +1730,112 @@ msgstr "Pagamento por mês"
 #: Template/GymMember/view_member.ctp:279
 #: Template/GymMember/view_member.ctp:305
 msgid "There is not enough data to generate report"
-msgstr "Não há dados suficientes para gerar relatório"
+msgstr "___Não há dados suficientes para gerar relatório"
 
 #: Template/Dashboard/dashboard.ctp:209 Template/Dashboard/dashboard.ctp:240
 #: Template/Reports/attendance_report.ctp:81
 msgid "Member Attendance Report"
-msgstr "Relatório de participação de membros"
+msgstr "___Relatório de participação de membros"
 
 #: Template/Dashboard/dashboard.ctp:223
 #: Template/Reports/attendance_report.ctp:93
 #: Template/Reports/membership_report.ctp:41
 msgid "No of Member"
-msgstr "Nenhum dos membros"
+msgstr "___Nenhum dos membros"
 
 #: Template/Dashboard/dashboard.ctp:263
 msgid "Staff Attendance Report"
-msgstr "Relatório de Atendimento ao Pessoal"
+msgstr "___Relatório de Atendimento ao Pessoal"
 
 #: Template/Dashboard/dashboard.ctp:277
 msgid "Number of Staff Members"
-msgstr "Número de membros do pessoal"
+msgstr "___Número de membros do pessoal"
 
 #: Template/Dashboard/dashboard.ctp:292
 #: Template/GymAttendance/attendance.ctp:29
 #: Template/GymAttendance/staff_attendance.ctp:18
 msgid "Staff Attendance"
-msgstr "Atendimento Pessoal"
+msgstr "___Atendimento Pessoal"
 
 #: Template/Dashboard/member_dashboard.ctp:191
 msgid "Weight Progress Report"
-msgstr "Relatório de Progresso do Peso"
+msgstr "___Relatório de Progresso do Peso"
 
 #: Template/Dashboard/member_dashboard.ctp:215
 msgid "Waist  Progress Report"
-msgstr "Cintura Progresso Relatório"
+msgstr "___Cintura Progresso Relatório"
 
 #: Template/Dashboard/member_dashboard.ctp:239
 msgid "Thigh Progress Report"
-msgstr "Relatório de progresso da coxa"
+msgstr "___Relatório de progresso da coxa"
 
 #: Template/Dashboard/member_dashboard.ctp:263
 msgid "Arms Progress Report"
-msgstr "Relatório de Progresso de Armas"
+msgstr "___Relatório de Progresso de Armas"
 
 #: Template/Dashboard/member_dashboard.ctp:287
 msgid "Height Progress Report"
-msgstr "Relatório de progresso de altura"
+msgstr "___Relatório de progresso de altura"
 
 #: Template/Dashboard/member_dashboard.ctp:311
 msgid "Chest Progress Report"
-msgstr "Relatório de progresso de peito"
+msgstr "___Relatório de progresso de peito"
 
 #: Template/Dashboard/member_dashboard.ctp:335
 msgid "Fat Progress Report"
-msgstr "Relatório de progresso de gordura"
+msgstr "___Relatório de progresso de gordura"
 
 #: Template/Element/footer.ctp:10
 msgid "Version"
-msgstr "Versão"
+msgstr "___Versão"
 
 #: Template/Element/topbar.ctp:40
 msgid "Member since"
-msgstr "Membro desde"
+msgstr "___Membro desde"
 
 #: Template/Element/topbar.ctp:47 Template/Element/topbar.ctp:53
 msgid "Profile"
-msgstr "Perfil"
+msgstr "___Perfil"
 
 #: Template/Element/topbar.ctp:57
 msgid "Sign out"
-msgstr "Sair"
+msgstr "___Sair"
 
 #: Template/GeneralSetting/save_setting.ctp:16
 msgid "Settings"
-msgstr "Definições"
+msgstr "___Definições"
 
 #: Template/GeneralSetting/save_setting.ctp:27
 msgid "System Settings"
-msgstr "Configurações de sistema"
+msgstr "___Configurações de sistema"
 
 #: Template/GeneralSetting/save_setting.ctp:29
 msgid "Gym Name"
-msgstr "Nome da academia"
+msgstr "___Nome da academia"
 
 #: Template/GeneralSetting/save_setting.ctp:36
 msgid "Starting Year"
-msgstr "Começando ano"
+msgstr "___Começando ano"
 
 #: Template/GeneralSetting/save_setting.ctp:43
 msgid "Gym Address"
-msgstr "Endereço da academia"
+msgstr "___Endereço da academia"
 
 #: Template/GeneralSetting/save_setting.ctp:50
 msgid "Office Phone Number"
-msgstr "Número de telefone do escritório"
+msgstr "___Número de telefone do escritório"
 
 #: Template/GeneralSetting/save_setting.ctp:57 Template/Installer/index.ctp:132
 msgid "Country"
-msgstr "País"
+msgstr "___País"
 
 #: Template/GeneralSetting/save_setting.ctp:74
 msgid "System Language"
-msgstr "Idioma do sistema"
+msgstr "___Idioma do sistema"
 
 #: Template/GeneralSetting/save_setting.ctp:108
 msgid "Set Language to RTL"
-msgstr "Definir idioma para RTL"
+msgstr "___Definir idioma para RTL"
 
 #: Template/GeneralSetting/save_setting.ctp:110
 #: Template/GeneralSetting/save_setting.ctp:369
@@ -1844,119 +1844,119 @@ msgstr "Definir idioma para RTL"
 #: Template/GeneralSetting/save_setting.ctp:416
 #: Template/GeneralSetting/save_setting.ctp:453
 msgid "Enable"
-msgstr "Habilitar"
+msgstr "___Habilitar"
 
 #: Template/GeneralSetting/save_setting.ctp:115
 msgid "Date Picker Language"
-msgstr "Idioma do selecionador de data"
+msgstr "___Idioma do selecionador de data"
 
 #: Template/GeneralSetting/save_setting.ctp:166
 #: Template/Installer/index.ctp:472
 msgid "Date Format"
-msgstr "Formato de data"
+msgstr "___Formato de data"
 
 #: Template/GeneralSetting/save_setting.ctp:179
 #: Template/Installer/index.ctp:483
 msgid "Calendar Language"
-msgstr "Linguagem de calendário"
+msgstr "___Linguagem de calendário"
 
 #: Template/GeneralSetting/save_setting.ctp:253
 msgid "Time Zone"
-msgstr "Fuso horário"
+msgstr "___Fuso horário"
 
 #: Template/GeneralSetting/save_setting.ctp:283
 msgid "Gym Logo"
-msgstr "Logotipo da academia"
+msgstr "___Logotipo da academia"
 
 #: Template/GeneralSetting/save_setting.ctp:300
 msgid "Cover Image"
-msgstr "Imagem de capa"
+msgstr "___Imagem de capa"
 
 #: Template/GeneralSetting/save_setting.ctp:312
 msgid "Measurement Units"
-msgstr "Unidades de medida"
+msgstr "___Unidades de medida"
 
 #: Template/GeneralSetting/save_setting.ctp:314
 #: Template/GymMember/add_member.ctp:277
 msgid "Weight"
-msgstr "Peso"
+msgstr "___Peso"
 
 #: Template/GeneralSetting/save_setting.ctp:321
 #: Template/GymMember/add_member.ctp:284
 msgid "Height"
-msgstr "Altura"
+msgstr "___Altura"
 
 #: Template/GeneralSetting/save_setting.ctp:328
 #: Template/GymMember/add_member.ctp:291
 msgid "Chest"
-msgstr "Peito"
+msgstr "___Peito"
 
 #: Template/GeneralSetting/save_setting.ctp:335
 #: Template/GymMember/add_member.ctp:298
 msgid "Waist"
-msgstr "Cintura"
+msgstr "___Cintura"
 
 #: Template/GeneralSetting/save_setting.ctp:342
 msgid "Thing"
-msgstr "Coisa"
+msgstr "___Coisa"
 
 #: Template/GeneralSetting/save_setting.ctp:349
 #: Template/GymMember/add_member.ctp:312
 msgid "Arms"
-msgstr "Braços"
+msgstr "___Braços"
 
 #: Template/GeneralSetting/save_setting.ctp:356
 #: Template/GymMember/add_member.ctp:319
 msgid "Fat"
-msgstr "Gordura"
+msgstr "___Gordura"
 
 #: Template/GeneralSetting/save_setting.ctp:364
 msgid "Member Privacy Setting"
-msgstr "Configuração de privacidade do membro"
+msgstr "___Configuração de privacidade do membro"
 
 #: Template/GeneralSetting/save_setting.ctp:366
 msgid "Member can view other member's details"
-msgstr "O membro pode ver os detalhes do outro membro"
+msgstr "___O membro pode ver os detalhes do outro membro"
 
 #: Template/GeneralSetting/save_setting.ctp:373
 msgid "Staff Member can view own trainee member's details"
-msgstr "O membro da equipe pode ver os detalhes do próprio membro trainee"
+msgstr "___O membro da equipe pode ver os detalhes do próprio membro trainee"
 
 #: Template/GeneralSetting/save_setting.ctp:382
 msgid "Paypal Setting"
-msgstr "Configuração do Paypal"
+msgstr "___Configuração do Paypal"
 
 #: Template/GeneralSetting/save_setting.ctp:384
 msgid "Enable Sandbox"
-msgstr "Ativar sandbox"
+msgstr "___Ativar sandbox"
 
 #: Template/GeneralSetting/save_setting.ctp:391
 msgid "Paypal Email Id"
-msgstr "ID do email do Paypal"
+msgstr "___ID do email do Paypal"
 
 #: Template/GeneralSetting/save_setting.ctp:398
 msgid "Select Currency"
-msgstr "Escolha a moeda"
+msgstr "___Escolha a moeda"
 
 #: Template/GeneralSetting/save_setting.ctp:412
 msgid "Membership Alert Message Setting"
-msgstr "Configuração de mensagem de alerta de associação"
+msgstr "___Configuração de mensagem de alerta de associação"
 
 #: Template/GeneralSetting/save_setting.ctp:414
 msgid "Enable Alert Mail"
-msgstr "Ativar email de alerta"
+msgstr "___Ativar email de alerta"
 
 #: Template/GeneralSetting/save_setting.ctp:421
 msgid "Reminder Before Days"
-msgstr "Lembrete antes dos dias"
+msgstr "___Lembrete antes dos dias"
 
 #: Template/GeneralSetting/save_setting.ctp:429
 msgid "Reminder Message"
-msgstr "Mensagem de lembrete"
+msgstr "___Mensagem de lembrete"
 
 #: Template/GeneralSetting/save_setting.ctp:436
 msgid "ShortCodes For Notification Mail Message"
-msgstr "ShortCodes para mensagem de email de notificação"
+msgstr "___ShortCodes para mensagem de email de notificação"
 
 #: Template/GeneralSetting/save_setting.ctp:439
 #: Template/GymAssignWorkout/workout_log.ctp:53
@@ -1977,7 +1977,7 @@ msgstr "ShortCodes para mensagem de email de notificação"
 #: Template/MembershipPayment/payment_list.ctp:50
 #: Template/MembershipPayment/payment_list.ctp:95
 msgid "Member Name"
-msgstr "Nome do membro"
+msgstr "___Nome do membro"
 
 #: Template/GeneralSetting/save_setting.ctp:440 Template/Membership/add.ctp:81
 #: Template/Membership/edit_membership.ctp:21
@@ -1985,7 +1985,7 @@ msgstr "Nome do membro"
 #: Template/Membership/membership_list.ctp:102
 #: Template/Reports/membership_report.ctp:35
 msgid "Membership Name"
-msgstr "Nome da associação"
+msgstr "___Nome da associação"
 
 #: Template/GeneralSetting/save_setting.ctp:441
 #: Template/GymMember/view_member.ctp:390
@@ -1995,7 +1995,7 @@ msgstr "Nome da associação"
 #: Template/MembershipPayment/payment_list.ctp:54
 #: Template/MembershipPayment/payment_list.ctp:99
 msgid "Membership Start Date"
-msgstr "Data de início da associação"
+msgstr "___Data de início da associação"
 
 #: Template/GeneralSetting/save_setting.ctp:442
 #: Template/GymMember/view_member.ctp:391
@@ -2005,73 +2005,73 @@ msgstr "Data de início da associação"
 #: Template/MembershipPayment/payment_list.ctp:55
 #: Template/MembershipPayment/payment_list.ctp:100
 msgid "Membership End Date"
-msgstr "Data de término da associação"
+msgstr "___Data de término da associação"
 
 #: Template/GeneralSetting/save_setting.ctp:449
 msgid "Message Setting"
-msgstr "Configuração de Mensagens"
+msgstr "___Configuração de Mensagens"
 
 #: Template/GeneralSetting/save_setting.ctp:451
 msgid "Member can Message To other's"
-msgstr "Membro pode mensagem para outro"
+msgstr "___Membro pode mensagem para outro"
 
 #: Template/GeneralSetting/save_setting.ctp:458
 msgid "Header & Footer Text"
-msgstr "Texto de cabeçalho e rodapé"
+msgstr "___Texto de cabeçalho e rodapé"
 
 #: Template/GeneralSetting/save_setting.ctp:460
 msgid "Left Header Text"
-msgstr "Texto do cabeçalho esquerdo"
+msgstr "___Texto do cabeçalho esquerdo"
 
 #: Template/GeneralSetting/save_setting.ctp:467
 msgid "Footer Text"
-msgstr "Texto de rodapé"
+msgstr "___Texto de rodapé"
 
 #: Template/GeneralSetting/save_setting.ctp:475
 msgid "Save Settings"
-msgstr "Salvar configurações"
+msgstr "___Salvar configurações"
 
 #: Template/GymAccessright/access_right.ctp:13
 msgid "Access Right Settings"
-msgstr "Acessar configurações corretas"
+msgstr "___Acessar configurações corretas"
 
 #: Template/GymAccessright/access_right.ctp:22
 msgid "Menu"
-msgstr "Cardápio"
+msgstr "___Cardápio"
 
 #: Template/GymAccessright/access_right.ctp:213
 msgid "Attendence"
-msgstr "Atendimento"
+msgstr "___Atendimento"
 
 #: Template/GymAccessright/access_right.ctp:243
 msgid "Assigned Workouts"
-msgstr "Exercícios atribuídos"
+msgstr "___Exercícios atribuídos"
 
 #: Template/GymAccessright/access_right.ctp:273
 msgid "Workouts"
-msgstr "Treinos"
+msgstr "___Treinos"
 
 #: Template/GymAccessright/access_right.ctp:333
 #: Template/Reports/payment_report.ctp:47
 msgid "Fee Payment"
-msgstr "Pagamento de taxa"
+msgstr "___Pagamento de taxa"
 
 #: Template/GymAccessright/access_right.ctp:392
 #: Template/MembershipPayment/add_expense.ctp:22
 #: Template/MembershipPayment/expense_list.ctp:27
 msgid "Expense"
-msgstr "Despesa"
+msgstr "___Despesa"
 
 #: Template/GymAccessright/access_right.ctp:663
 msgid "Account"
-msgstr "Conta"
+msgstr "___Conta"
 
 #: Template/GymAccessright/access_right.ctp:694
 #: Template/GymMember/view_member.ctp:382
 #: Template/GymSubscriptionHistory/index.ctp:31
 #: Template/GymSubscriptionHistory/index.ctp:32
 msgid "Subscription History"
-msgstr "Histórico de Assinaturas"
+msgstr "___Histórico de Assinaturas"
 
 #: Template/GymAccessright/access_right.ctp:724
 #: Template/GymDailyWorkout/add_workout.ctp:210
@@ -2083,12 +2083,12 @@ msgstr "Histórico de Assinaturas"
 #: Template/GymProfile/view_profile.ctp:155
 #: Template/GymStore/sell_product.ctp:84
 msgid "Save"
-msgstr "Salve "
+msgstr "___Salve "
 
 #: Template/GymAccountant/accountant_list.ctp:36
 #: Template/GymAccountant/add_accountant.ctp:34
 msgid "Accountant List"
-msgstr "Lista de contabilistas"
+msgstr "___Lista de contabilistas"
 
 #: Template/GymAccountant/accountant_list.ctp:53
 #: Template/GymAccountant/accountant_list.ctp:87
@@ -2107,17 +2107,17 @@ msgstr "Lista de contabilistas"
 #: Template/StaffMembers/staff_list.ctp:47
 #: Template/StaffMembers/staff_list.ctp:80
 msgid "Photo"
-msgstr "foto"
+msgstr "___foto"
 
 #: Template/GymAccountant/accountant_list.ctp:54
 #: Template/GymAccountant/accountant_list.ctp:88
 msgid "Accountant Name"
-msgstr "Nome do contabilista"
+msgstr "___Nome do contabilista"
 
 #: Template/GymAccountant/accountant_list.ctp:55
 #: Template/GymAccountant/accountant_list.ctp:89
 msgid "Accountant Email"
-msgstr "E-mail do contabilista"
+msgstr "___E-mail do contabilista"
 
 #: Template/GymAccountant/accountant_list.ctp:56
 #: Template/GymAccountant/accountant_list.ctp:90
@@ -2125,31 +2125,31 @@ msgstr "E-mail do contabilista"
 #: Template/StaffMembers/staff_list.ctp:51
 #: Template/StaffMembers/staff_list.ctp:84
 msgid "Mobile No."
-msgstr "Celular No."
+msgstr "___Celular No."
 
 #: Template/GymAccountant/add_accountant.ctp:51
 #: Template/GymMember/add_member.ctp:178
 #: Template/MemberRegistration/index.ctp:122
 #: Template/StaffMembers/add_staff.ctp:67
 msgid "Middle Name"
-msgstr "Nome do meio"
+msgstr "___Nome do meio"
 
 #: Template/GymAccountant/add_accountant.ctp:65
 #: Template/GymMember/add_member.ctp:192 Template/GymMember/view_member.ctp:86
 #: Template/MemberRegistration/index.ctp:136
 #: Template/StaffMembers/add_staff.ctp:81
 msgid "Gender"
-msgstr "Gênero"
+msgstr "___Gênero"
 
 #: Template/GymAccountant/add_accountant.ctp:68
 #: Template/GymMember/add_member.ctp:195 Template/StaffMembers/add_staff.ctp:84
 msgid "Male"
-msgstr "Masculino"
+msgstr "___Masculino"
 
 #: Template/GymAccountant/add_accountant.ctp:69
 #: Template/GymMember/add_member.ctp:196 Template/StaffMembers/add_staff.ctp:85
 msgid "Female"
-msgstr "Fêmea"
+msgstr "___Fêmea"
 
 #: Template/GymAccountant/add_accountant.ctp:76
 #: Template/GymMember/add_member.ctp:203
@@ -2157,20 +2157,20 @@ msgstr "Fêmea"
 #: Template/MemberRegistration/index.ctp:147
 #: Template/StaffMembers/add_staff.ctp:92
 msgid "Date of birth"
-msgstr "Data de nascimento"
+msgstr "___Data de nascimento"
 
 #: Template/GymAccountant/add_accountant.ctp:82
 #: Template/GymMember/add_member.ctp:220
 #: Template/MemberRegistration/index.ctp:161
 #: Template/StaffMembers/add_staff.ctp:117
 msgid "Contact Information"
-msgstr "Informações de contato"
+msgstr "___Informações de contato"
 
 #: Template/GymAccountant/add_accountant.ctp:84
 #: Template/GymProfile/view_profile.ctp:122
 #: Template/StaffMembers/add_staff.ctp:119
 msgid "Home Town Address"
-msgstr "Endereço da cidade natal"
+msgstr "___Endereço da cidade natal"
 
 #: Template/GymAccountant/add_accountant.ctp:91
 #: Template/GymMember/add_member.ctp:229
@@ -2178,14 +2178,14 @@ msgstr "Endereço da cidade natal"
 #: Template/MemberRegistration/index.ctp:171
 #: Template/StaffMembers/add_staff.ctp:126
 msgid "City"
-msgstr "Cidade"
+msgstr "___Cidade"
 
 #: Template/GymAccountant/add_accountant.ctp:98
 #: Template/GymMember/add_member.ctp:250
 #: Template/MemberRegistration/index.ctp:192
 #: Template/StaffMembers/add_staff.ctp:133
 msgid "Mobile Number"
-msgstr "Número de celular"
+msgstr "___Número de celular"
 
 #: Template/GymAccountant/add_accountant.ctp:108
 #: Template/GymMember/add_member.ctp:260
@@ -2193,16 +2193,16 @@ msgstr "Número de celular"
 #: Template/MemberRegistration/index.ctp:202
 #: Template/StaffMembers/add_staff.ctp:143
 msgid "Phone"
-msgstr "telefone"
+msgstr "___telefone"
 
 #: Template/GymAccountant/add_accountant.ctp:147
 msgid "Save Accountant"
-msgstr "Salve Contador"
+msgstr "___Salve Contador"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:68
 #: Template/GymAssignWorkout/assign_workout1.ctp:49
 msgid "Workout Logs"
-msgstr "Registros de treino"
+msgstr "___Registros de treino"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:78
 #: Template/GymAssignWorkout/assign_workout1.ctp:59
@@ -2212,7 +2212,7 @@ msgstr "Registros de treino"
 #: Template/MembershipPayment/generate_payment_invoice.ctp:71
 #: Template/Reports/monthlyworkoutreport.ctp:52
 msgid "Select Member"
-msgstr "Selecione um membro"
+msgstr "___Selecione um membro"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:103
 #: Template/GymAssignWorkout/assign_workout1.ctp:82
@@ -2221,7 +2221,7 @@ msgstr "Selecione um membro"
 #: Template/GymNutrition/member_nutrition.ctp:63
 #: Template/GymNutrition/print_nutrition.ctp:54
 msgid "Description"
-msgstr "Descrição"
+msgstr "___Descrição"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:117
 #: Template/GymAssignWorkout/assign_workout1.ctp:96
@@ -2230,27 +2230,27 @@ msgstr "Descrição"
 #: Template/GymNutrition/addnutrition_schedule.ctp:78
 #: Template/Reports/attendance_report.ctp:68
 msgid "End Date"
-msgstr "Data final"
+msgstr "___Data final"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:138
 #: Template/GymAssignWorkout/assign_workout1.ctp:116
 msgid "Select workout activity to add on selected days"
-msgstr "Selecione a atividade de treino para adicionar em dias selecionados"
+msgstr "___Selecione a atividade de treino para adicionar em dias selecionados"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:144
 #: Template/GymAssignWorkout/assign_workout1.ctp:122
 msgid "Step-1 Add Workout"
-msgstr "Etapa 1 - adicionar treino"
+msgstr "___Etapa 1 - adicionar treino"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:159
 #: Template/GymAssignWorkout/assign_workout1.ctp:137
 msgid "Step-2 Save Workout"
-msgstr "Passo 2 - Salve o treino"
+msgstr "___Passo 2 - Salve o treino"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:159
 #: Template/GymAssignWorkout/assign_workout1.ctp:137
 msgid "Save Workout"
-msgstr "Salvar treino"
+msgstr "___Salvar treino"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:188
 #: Template/GymAssignWorkout/assign_workout1.ctp:166
@@ -2260,7 +2260,7 @@ msgstr "Salvar treino"
 #: Template/GymNutrition/member_nutrition.ctp:53
 #: Template/GymNutrition/print_nutrition.ctp:45
 msgid "Start From"
-msgstr "Começar de"
+msgstr "___Começar de"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:188
 #: Template/GymAssignWorkout/assign_workout1.ctp:166
@@ -2270,7 +2270,7 @@ msgstr "Começar de"
 #: Template/GymNutrition/member_nutrition.ctp:53
 #: Template/GymNutrition/print_nutrition.ctp:45
 msgid "TO"
-msgstr "PARA"
+msgstr "___PARA"
 
 #: Template/GymAssignWorkout/assign_workout.ctp:194
 #: Template/GymAssignWorkout/assign_workout1.ctp:172
@@ -2280,64 +2280,64 @@ msgstr "PARA"
 #: Template/GymNutrition/member_nutrition.ctp:59
 #: Template/GymNutrition/print_nutrition.ctp:50
 msgid "Day name"
-msgstr "Nome do dia"
+msgstr "___Nome do dia"
 
 #: Template/GymAssignWorkout/member_assiged_workout.ctp:18
 #: Template/GymAssignWorkout/workout_log.ctp:35
 msgid "Workout Log"
-msgstr "Registro de treino"
+msgstr "___Registro de treino"
 
 #: Template/GymAssignWorkout/member_assiged_workout.ctp:97
 #: Template/GymAssignWorkout/print_workout.ctp:94
 msgid "No Record Found"
-msgstr "Nenhum Registro Encontrado"
+msgstr "___Nenhum Registro Encontrado"
 
 #: Template/GymAssignWorkout/workout_log.ctp:54
 #: Template/GymAssignWorkout/workout_log.ctp:78
 #: Template/GymNutrition/nutrition_list.ctp:54
 #: Template/GymNutrition/nutrition_list.ctp:78
 msgid "Member Goal"
-msgstr "Objetivo do membro"
+msgstr "___Objetivo do membro"
 
 #: Template/GymAssignWorkout/workout_log.ctp:67
 #: Template/GymDailyWorkout/view_workout.ctp:58
 msgid "View Workouts"
-msgstr "Ver exercícios"
+msgstr "___Ver exercícios"
 
 #: Template/GymAttendance/attendance.ctp:22
 #: Template/GymAttendance/staff_attendance.ctp:22
 msgid "Member Attendance"
-msgstr "Participação de Membros"
+msgstr "___Participação de Membros"
 
 #: Template/GymAttendance/attendance.ctp:43
 #: Template/GymAttendance/attendance.ctp:47
 #: Template/GymMessage/compose_message.ctp:62
 #: Template/GymNotice/add_notice.ctp:76 Template/Membership/add.ctp:142
 msgid "Select Class"
-msgstr "Selecione a Classe"
+msgstr "___Selecione a Classe"
 
 #: Template/GymAttendance/attendance.ctp:55
 #: Template/GymMember/view_attendance.ctp:33
 msgid "View Attendance"
-msgstr "Ver comparecimento"
+msgstr "___Ver comparecimento"
 
 #: Template/GymAttendance/attendance.ctp:59
 #: Template/GymAttendance/staff_attendance.ctp:36
 msgid "Take/View Attendance"
-msgstr "Assumir / ver comparecimento"
+msgstr "___Assumir / ver comparecimento"
 
 #: Template/GymAttendance/attendance.ctp:168
 #: Template/GymAttendance/staff_attendance.ctp:88
 msgid "Save Attendance"
-msgstr "Salve Atendimento"
+msgstr "___Salve Atendimento"
 
 #: Template/GymAttendance/attendance.ctp:179
 msgid "No attendance found."
-msgstr "Nenhuma presença encontrada."
+msgstr "___Nenhuma presença encontrada."
 
 #: Template/GymAttendance/staff_attendance.ctp:52
 msgid "Staff Attendance, Date"
-msgstr "Atendimento Pessoal, Data"
+msgstr "___Atendimento Pessoal, Data"
 
 #: Template/GymDailyWorkout/add_measurment.ctp:24
 #: Template/GymDailyWorkout/add_workout.ctp:127
@@ -2345,323 +2345,323 @@ msgstr "Atendimento Pessoal, Data"
 #: Template/GymDailyWorkout/workout_list.ctp:37
 #: Template/MembershipPayment/payment_list.ctp:33
 msgid "Workout Daily"
-msgstr "Treino Diário"
+msgstr "___Treino Diário"
 
 #: Template/GymDailyWorkout/add_measurment.ctp:27
 #: Template/GymDailyWorkout/add_workout.ctp:130
 #: Template/GymDailyWorkout/view_workout.ctp:37
 #: Template/GymDailyWorkout/workout_list.ctp:36
 msgid "Workout List"
-msgstr "Lista de exercícios"
+msgstr "___Lista de exercícios"
 
 #: Template/GymDailyWorkout/add_measurment.ctp:56
 msgid "Result Measurement"
-msgstr "Medição de Resultados"
+msgstr "___Medição de Resultados"
 
 #: Template/GymDailyWorkout/add_measurment.ctp:60
 msgid "Select Result Measurement"
-msgstr "Selecione Medição de Resultado"
+msgstr "___Selecione Medição de Resultado"
 
 #: Template/GymDailyWorkout/add_measurment.ctp:71
 msgid "Result Date"
-msgstr "Data do resultado"
+msgstr "___Data do resultado"
 
 #: Template/GymDailyWorkout/add_measurment.ctp:87
 msgid "Save Measurement"
-msgstr "Salvar Medição"
+msgstr "___Salvar Medição"
 
 #: Template/GymDailyWorkout/add_workout.ctp:179
 msgid "Select Date"
-msgstr "Selecione a data"
+msgstr "___Selecione a data"
 
 #: Template/GymDailyWorkout/add_workout.ctp:197
 msgid "Select Record Date For Today Workout"
-msgstr "Selecione Record Date For Today Workout"
+msgstr "___Selecione Record Date For Today Workout"
 
 #: Template/GymDailyWorkout/workout_list.ctp:57
 #: Template/GymDailyWorkout/workout_list.ctp:83
 msgid "Mobile"
-msgstr "Móvel"
+msgstr "___Móvel"
 
 #: Template/GymDailyWorkout/workout_list.ctp:72
 #: Template/GymNotice/notice_list.ctp:63
 msgid "View"
-msgstr "Visão"
+msgstr "___Visão"
 
 #: Template/GymDailyWorkout/workout_list.ctp:73
 msgid "View Measurement"
-msgstr "Visualizar Medição"
+msgstr "___Visualizar Medição"
 
 #: Template/GymEmailSetting/index.ctp:13 Template/GymEmailSetting/index.ctp:14
 msgid "Email Setting"
-msgstr "Configuração de email"
+msgstr "___Configuração de email"
 
 #: Template/GymEmailSetting/index.ctp:22 Template/Installer/index.ctp:108
 msgid "Host"
-msgstr "Hospedeiro"
+msgstr "___Hospedeiro"
 
 #: Template/GymEmailSetting/index.ctp:28
 msgid "Port"
-msgstr "Porta"
+msgstr "___Porta"
 
 #: Template/GymEmailSetting/index.ctp:57
 #: Template/MembershipPayment/generate_payment_invoice.ctp:95
 msgid "To"
-msgstr "Para"
+msgstr "___Para"
 
 #: Template/GymEmailSetting/index.ctp:63
 msgid "Send Test Mail"
-msgstr "Enviar email de teste"
+msgstr "___Enviar email de teste"
 
 #: Template/GymGroup/add_group.ctp:33 Template/GymGroup/group_list.ctp:45
 #: Template/GymGroup/group_list.ctp:76
 msgid "Group Name"
-msgstr "Nome do grupo"
+msgstr "___Nome do grupo"
 
 #: Template/GymGroup/add_group.ctp:37
 msgid "Group Image"
-msgstr "Imagem do Grupo"
+msgstr "___Imagem do Grupo"
 
 #: Template/GymGroup/add_group.ctp:45
 msgid "Save Group"
-msgstr "Salvar grupo"
+msgstr "___Salvar grupo"
 
 #: Template/GymGroup/group_list.ctp:46 Template/GymGroup/group_list.ctp:77
 msgid "Total Group Members"
-msgstr "Total de membros do grupo"
+msgstr "___Total de membros do grupo"
 
 #: Template/GymMember/add_member.ctp:152 Template/GymMember/member_list.ctp:38
 #: Template/GymMember/view_member.ctp:36
 msgid "Members List"
-msgstr "Lista de Membros"
+msgstr "___Lista de Membros"
 
 #: Template/GymMember/add_member.ctp:163 Template/GymMember/member_list.ctp:57
 #: Template/GymMember/member_list.ctp:110 Template/GymMember/view_member.ctp:62
 #: Template/MemberRegistration/index.ctp:107
 msgid "Member ID"
-msgstr "ID de membro"
+msgstr "___ID de membro"
 
 #: Template/GymMember/add_member.ctp:222 Template/GymMember/view_member.ctp:70
 #: Template/MemberRegistration/index.ctp:164
 msgid "Address"
-msgstr "Endereço"
+msgstr "___Endereço"
 
 #: Template/GymMember/add_member.ctp:236
 msgid "State"
-msgstr "Estado"
+msgstr "___Estado"
 
 #: Template/GymMember/add_member.ctp:243
 #: Template/MemberRegistration/index.ctp:185
 msgid "Zip code"
-msgstr "Código postal"
+msgstr "___Código postal"
 
 #: Template/GymMember/add_member.ctp:275
 msgid "Physical Information"
-msgstr "Informação Física"
+msgstr "___Informação Física"
 
 #: Template/GymMember/add_member.ctp:305
 msgid "Thigh"
-msgstr "Coxa"
+msgstr "___Coxa"
 
 #: Template/GymMember/add_member.ctp:351
 #: Template/MemberRegistration/index.ctp:242
 msgid "More Information"
-msgstr "Mais Informações"
+msgstr "___Mais Informações"
 
 #: Template/GymMember/add_member.ctp:358 Template/GymMember/add_member.ctp:388
 msgid "Add Staff"
-msgstr "Adicionar pessoal"
+msgstr "___Adicionar pessoal"
 
 #: Template/GymMember/add_member.ctp:363
 #: Template/MemberRegistration/index.ctp:245
 msgid "Interested Area"
-msgstr "Área Interessada"
+msgstr "___Área Interessada"
 
 #: Template/GymMember/add_member.ctp:365
 #: Template/MemberRegistration/index.ctp:247
 msgid "Select Interest"
-msgstr "Selecione interesse"
+msgstr "___Selecione interesse"
 
 #: Template/GymMember/add_member.ctp:368 Template/GymMember/add_member.ctp:378
 #: Template/StaffMembers/add_staff.ctp:104
 #: Template/StaffMembers/add_staff.ctp:112
 msgid "Add/Remove"
-msgstr "Adicionar / Remover"
+msgstr "___Adicionar / Remover"
 
 #: Template/GymMember/add_member.ctp:373
 #: Template/MemberRegistration/index.ctp:252
 msgid "Source"
-msgstr "Fonte"
+msgstr "___Fonte"
 
 #: Template/GymMember/add_member.ctp:375
 #: Template/MemberRegistration/index.ctp:254
 msgid "Select Source"
-msgstr "Selecione a fonte"
+msgstr "___Selecione a fonte"
 
 #: Template/GymMember/add_member.ctp:383
 msgid "Referred By"
-msgstr "Referido por"
+msgstr "___Referido por"
 
 #: Template/GymMember/add_member.ctp:393
 msgid "Inquiry Date"
-msgstr "Data de Inquérito"
+msgstr "___Data de Inquérito"
 
 #: Template/GymMember/add_member.ctp:400
 msgid "Trial End Date"
-msgstr "Data final de avaliação"
+msgstr "___Data final de avaliação"
 
 #: Template/GymMember/add_member.ctp:409 Template/GymMember/member_list.ctp:60
 #: Template/GymMember/member_list.ctp:113
 msgid "Member Type"
-msgstr "Tipo de membro"
+msgstr "___Tipo de membro"
 
 #: Template/GymMember/add_member.ctp:413 Template/GymMember/add_member.ctp:447
 msgid "Prospect"
-msgstr "Prospecto"
+msgstr "___Prospecto"
 
 #: Template/GymMember/add_member.ctp:414
 msgid "Alumni"
-msgstr "Ex-alunos"
+msgstr "___Ex-alunos"
 
 #: Template/GymMember/add_member.ctp:435
 msgid "Add Class"
-msgstr "Adicionar classe"
+msgstr "___Adicionar classe"
 
 #: Template/GymMember/add_member.ctp:444 Template/GymMember/member_list.ctp:61
 #: Template/GymMember/member_list.ctp:114
 msgid "Membership Status"
-msgstr "Status de associação"
+msgstr "___Status de associação"
 
 #: Template/GymMember/add_member.ctp:448
 msgid "Continue"
-msgstr "Continuar"
+msgstr "___Continuar"
 
 #: Template/GymMember/add_member.ctp:449
 msgid "Expired"
-msgstr "Expirado"
+msgstr "___Expirado"
 
 #: Template/GymMember/add_member.ctp:450
 msgid "Dropped"
-msgstr "Desistiu"
+msgstr "___Desistiu"
 
 #: Template/GymMember/add_member.ctp:456
 #: Template/MembershipPayment/generate_payment_invoice.ctp:91
 msgid "Membership Valid From"
-msgstr "Filiação Válida De"
+msgstr "___Filiação Válida De"
 
 #: Template/GymMember/add_member.ctp:469
 msgid "First Payment Date"
-msgstr "Data do primeiro pagamento"
+msgstr "___Data do primeiro pagamento"
 
 #: Template/GymMember/add_member.ctp:477
 #: Template/MemberRegistration/index.ctp:292
 msgid "Save Member"
-msgstr "Salvar membro"
+msgstr "___Salvar membro"
 
 #: Template/GymMember/member_list.ctp:58 Template/GymMember/member_list.ctp:111
 msgid "Joining Date"
-msgstr "Data de ingresso"
+msgstr "___Data de ingresso"
 
 #: Template/GymMember/member_list.ctp:59 Template/GymMember/member_list.ctp:112
 msgid "Expire Date"
-msgstr "Data de validade"
+msgstr "___Data de validade"
 
 #: Template/GymMember/member_list.ctp:96
 msgid "Activate"
-msgstr "Ativar"
+msgstr "___Ativar"
 
 #: Template/GymMember/member_list.ctp:98
 msgid "Activated"
-msgstr "ativado"
+msgstr "___ativado"
 
 #: Template/GymMember/view_attendance.ctp:37
 msgid "Member List"
-msgstr "Lista de membros"
+msgstr "___Lista de membros"
 
 #: Template/GymMember/view_attendance.ctp:57
 #: Template/Reports/attendance_report.ctp:74
 msgid "Go"
-msgstr "Vai"
+msgstr "___Vai"
 
 #: Template/GymMember/view_member.ctp:32
 msgid "View Member"
-msgstr "Visualizar membro"
+msgstr "___Visualizar membro"
 
 #: Template/GymMember/view_member.ctp:66
 #: Template/GymProfile/view_profile.ctp:64
 msgid "Name"
-msgstr "Nome"
+msgstr "___Nome"
 
 #: Template/GymMember/view_member.ctp:78
 msgid "Mobile No"
-msgstr "Celular Não"
+msgstr "___Celular Não"
 
 #: Template/GymMember/view_member.ctp:82
 msgid "Date Of Birth"
-msgstr "Data de nascimento"
+msgstr "___Data de nascimento"
 
 #: Template/GymMember/view_member.ctp:103
 msgid "Moreinfo"
-msgstr "Mais informações"
+msgstr "___Mais informações"
 
 #: Template/GymMember/view_member.ctp:107
 msgid "MemberShip"
-msgstr "MemberShip"
+msgstr "___MemberShip"
 
 #: Template/GymMember/view_member.ctp:111
 msgid "Expiry Date"
-msgstr "Data de validade"
+msgstr "___Data de validade"
 
 #: Template/GymMember/view_member.ctp:115
 msgid "Classes"
-msgstr "Classes"
+msgstr "___Classes"
 
 #: Template/GymMember/view_member.ctp:119
 msgid "Interest Area"
-msgstr "Área de interesse"
+msgstr "___Área de interesse"
 
 #: Template/GymMember/view_member.ctp:133
 msgid "Groups"
-msgstr "Grupos"
+msgstr "___Grupos"
 
 #: Template/GymMember/view_member.ctp:147
 msgid "Add Weight"
-msgstr "Adicionar peso"
+msgstr "___Adicionar peso"
 
 #: Template/GymMember/view_member.ctp:171
 msgid "Add Waist"
-msgstr "Adicionar Cintura"
+msgstr "___Adicionar Cintura"
 
 #: Template/GymMember/view_member.ctp:197
 msgid "Add Thigh"
-msgstr "Adicionar coxa"
+msgstr "___Adicionar coxa"
 
 #: Template/GymMember/view_member.ctp:221
 msgid "Add Arms"
-msgstr "Adicionar armas"
+msgstr "___Adicionar armas"
 
 #: Template/GymMember/view_member.ctp:247
 msgid "Add Height"
-msgstr "Adicionar Altura"
+msgstr "___Adicionar Altura"
 
 #: Template/GymMember/view_member.ctp:271
 msgid "Add Chest"
-msgstr "Adicionar Peito"
+msgstr "___Adicionar Peito"
 
 #: Template/GymMember/view_member.ctp:297
 msgid "Add Fat"
-msgstr "Adicionar gordura"
+msgstr "___Adicionar gordura"
 
 #: Template/GymMember/view_member.ctp:321
 msgid "Add Photo"
-msgstr "Adicionar foto"
+msgstr "___Adicionar foto"
 
 #: Template/GymMember/view_member.ctp:387
 #: Template/GymMember/view_member.ctp:415
 #: Template/GymSubscriptionHistory/index.ctp:42
 #: Template/GymSubscriptionHistory/index.ctp:72
 msgid "Membership Title"
-msgstr "Título de associação"
+msgstr "___Título de associação"
 
 #: Template/GymMember/view_member.ctp:389
 #: Template/GymMember/view_member.ctp:417
@@ -2670,7 +2670,7 @@ msgstr "Título de associação"
 #: Template/MembershipPayment/payment_list.ctp:53
 #: Template/MembershipPayment/payment_list.ctp:98
 msgid "Due Amount"
-msgstr "Valor devido"
+msgstr "___Valor devido"
 
 #: Template/GymMember/view_member.ctp:392
 #: Template/GymMember/view_member.ctp:420
@@ -2679,640 +2679,640 @@ msgstr "Valor devido"
 #: Template/MembershipPayment/payment_list.ctp:56
 #: Template/MembershipPayment/payment_list.ctp:101
 msgid "Payment Status"
-msgstr "Status do pagamento"
+msgstr "___Status do pagamento"
 
 #: Template/GymMessage/compose_message.ctp:13
 msgid "Compose Message"
-msgstr "Compor mensagem"
+msgstr "___Compor mensagem"
 
 #: Template/GymMessage/compose_message.ctp:25
 #: Template/GymMessage/compose_message.ctp:28 Template/GymMessage/inbox.ctp:26
 #: Template/GymMessage/inbox.ctp:30 Template/GymMessage/sent.ctp:20
 #: Template/GymMessage/view_message.ctp:20
 msgid "Compose"
-msgstr "Compor"
+msgstr "___Compor"
 
 #: Template/GymMessage/compose_message.ctp:36 Template/GymMessage/inbox.ctp:42
 #: Template/GymMessage/sent.ctp:31 Template/GymMessage/view_message.ctp:29
 msgid "Inbox"
-msgstr "Caixa de entrada"
+msgstr "___Caixa de entrada"
 
 #: Template/GymMessage/compose_message.ctp:38 Template/GymMessage/inbox.ctp:44
 #: Template/GymMessage/sent.ctp:33 Template/GymMessage/view_message.ctp:31
 msgid "Sent"
-msgstr "Enviei"
+msgstr "___Enviei"
 
 #: Template/GymMessage/compose_message.ctp:52 Template/GymMessage/sent.ctp:41
 msgid "Message To"
-msgstr "Mensagem para"
+msgstr "___Mensagem para"
 
 #: Template/GymMessage/compose_message.ctp:64
 msgid "None"
-msgstr "Nenhum"
+msgstr "___Nenhum"
 
 #: Template/GymMessage/compose_message.ctp:69 Template/GymMessage/inbox.ctp:53
 #: Template/GymMessage/sent.ctp:42 Template/GymMessage/view_message.ctp:37
 msgid "Subject"
-msgstr "Sujeito"
+msgstr "___Sujeito"
 
 #: Template/GymMessage/compose_message.ctp:75
 msgid "Message Comment"
-msgstr "Comentário de mensagem"
+msgstr "___Comentário de mensagem"
 
 #: Template/GymMessage/compose_message.ctp:93
 msgid "Send Message"
-msgstr "Enviar mensagem"
+msgstr "___Enviar mensagem"
 
 #: Template/GymMessage/inbox.ctp:9 Template/GymMessage/inbox.ctp:34
 #: Template/GymMessage/view_message.ctp:8
 msgid "Inbox Messages"
-msgstr "Mensagens na Caixa de Entrada"
+msgstr "___Mensagens na Caixa de Entrada"
 
 #: Template/GymMessage/inbox.ctp:52
 msgid "Message From"
-msgstr "Mensagem de"
+msgstr "___Mensagem de"
 
 #: Template/GymMessage/sent.ctp:8 Template/GymMessage/sent.ctp:23
 msgid "Sent Messages"
-msgstr "Mensagens Enviadas"
+msgstr "___Mensagens Enviadas"
 
 #: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
 #: Template/GymNewsletter/sync_mail.ctp:1
 msgid "Setting"
-msgstr "Configuração"
+msgstr "___Configuração"
 
 #: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
 #: Template/GymNewsletter/sync_mail.ctp:1
 msgid "Sync Mail"
-msgstr "Sincronizar Correio"
+msgstr "___Sincronizar Correio"
 
 #: Template/GymNewsletter/campaign.ctp:1
 msgid "MailChimp list"
-msgstr "Lista MailChimp"
+msgstr "___Lista MailChimp"
 
 #: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
 msgid "Select list"
-msgstr "Selecione a lista"
+msgstr "___Selecione a lista"
 
 #: Template/GymNewsletter/campaign.ctp:1
 msgid "Campaign list"
-msgstr "Lista de campanhas"
+msgstr "___Lista de campanhas"
 
 #: Template/GymNewsletter/campaign.ctp:1
 msgid "Select Campaign"
-msgstr "Selecione Campanha"
+msgstr "___Selecione Campanha"
 
 #: Template/GymNewsletter/campaign.ctp:1
 msgid "Send Capmaign"
-msgstr "Enviar Capmaign"
+msgstr "___Enviar Capmaign"
 
 #: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
 msgid "Campaign"
-msgstr "Campanha"
+msgstr "___Campanha"
 
 #: Template/GymNewsletter/setting.ctp:1
 msgid "MailChimp API key"
-msgstr "Chave da API MailChimp"
+msgstr "___Chave da API MailChimp"
 
 #: Template/GymNewsletter/sync_mail.ctp:1
 msgid "Mailing list"
-msgstr "Lista de discussão"
+msgstr "___Lista de discussão"
 
 #: Template/GymNotice/add_notice.ctp:41
 msgid "Edit Notice"
-msgstr "Editar aviso"
+msgstr "___Editar aviso"
 
 #: Template/GymNotice/add_notice.ctp:43 Template/GymNotice/notice_list.ctp:31
 msgid "Add Notice"
-msgstr "Adicionar aviso"
+msgstr "___Adicionar aviso"
 
 #: Template/GymNotice/add_notice.ctp:50 Template/GymNotice/notice_list.ctp:24
 msgid "Notice List"
-msgstr "Lista de avisos"
+msgstr "___Lista de avisos"
 
 #: Template/GymNotice/add_notice.ctp:58 Template/GymNotice/notice_list.ctp:41
 #: Template/GymNotice/notice_list.ctp:70
 msgid "Notice Title"
-msgstr "Título do aviso"
+msgstr "___Título do aviso"
 
 #: Template/GymNotice/add_notice.ctp:67
 msgid "All"
-msgstr "Todos"
+msgstr "___Todos"
 
 #: Template/GymNotice/add_notice.ctp:96
 msgid "Comment"
-msgstr "Comente"
+msgstr "___Comente"
 
 #: Template/GymNutrition/addnutrition_schedule.ctp:46
 #: Template/GymNutrition/member_nutrition.ctp:18
 msgid "Nutrition Schedule List"
-msgstr "Lista de cronograma de nutrição"
+msgstr "___Lista de cronograma de nutrição"
 
 #: Template/GymNutrition/addnutrition_schedule.ctp:98
 msgid "Select Nutrition to add on selected days"
-msgstr "Selecione Nutrição para adicionar nos dias selecionados"
+msgstr "___Selecione Nutrição para adicionar nos dias selecionados"
 
 #: Template/GymNutrition/addnutrition_schedule.ctp:103
 msgid "Break Fast"
-msgstr "Café da manhã"
+msgstr "___Café da manhã"
 
 #: Template/GymNutrition/addnutrition_schedule.ctp:109
 msgid "Mid-Morning Snacks"
-msgstr "Petiscos Meio da Manhã"
+msgstr "___Petiscos Meio da Manhã"
 
 #: Template/GymNutrition/addnutrition_schedule.ctp:115
 msgid "Lunch"
-msgstr "Almoço"
+msgstr "___Almoço"
 
 #: Template/GymNutrition/addnutrition_schedule.ctp:120
 msgid "Afternoon Snacks"
-msgstr "Petiscos à tarde"
+msgstr "___Petiscos à tarde"
 
 #: Template/GymNutrition/addnutrition_schedule.ctp:125
 msgid "Dinner"
-msgstr "Jantar"
+msgstr "___Jantar"
 
 #: Template/GymNutrition/addnutrition_schedule.ctp:129
 msgid "+ Add Nutrition"
-msgstr "+ Adicionar Nutrição"
+msgstr "___+ Adicionar Nutrição"
 
 #: Template/GymNutrition/addnutrition_schedule.ctp:146
 msgid "Step-2 Save"
-msgstr "Etapa 2 Salve"
+msgstr "___Etapa 2 Salve"
 
 #: Template/GymNutrition/addnutrition_schedule.ctp:184
 #: Template/GymNutrition/member_nutrition.ctp:62
 #: Template/GymNutrition/print_nutrition.ctp:53
 msgid "Time"
-msgstr "Tempo"
+msgstr "___Tempo"
 
 #: Template/GymNutrition/member_nutrition.ctp:89
 #: Template/GymNutrition/print_nutrition.ctp:80
 msgid "No record found."
-msgstr "Nenhum Registro Encontrado."
+msgstr "___Nenhum Registro Encontrado."
 
 #: Template/GymNutrition/nutrition_list.ctp:52
 #: Template/GymNutrition/nutrition_list.ctp:76
 msgid "Member Photo"
-msgstr "Foto do membro"
+msgstr "___Foto do membro"
 
 #: Template/GymProduct/add_product.ctp:9
 msgid "Edit Product"
-msgstr "Editar produto"
+msgstr "___Editar produto"
 
 #: Template/GymProduct/add_product.ctp:11
 #: Template/GymProduct/product_list.ctp:37
 #: Template/GymStore/sell_product.ctp:70
 msgid "Add Product"
-msgstr "Adicionar produto"
+msgstr "___Adicionar produto"
 
 #: Template/GymProduct/add_product.ctp:15
 #: Template/GymProduct/product_list.ctp:31
 msgid "Products"
-msgstr "Produtos"
+msgstr "___Produtos"
 
 #: Template/GymProduct/add_product.ctp:18
 #: Template/GymProduct/product_list.ctp:30
 msgid "Product List"
-msgstr "Lista de produtos"
+msgstr "___Lista de produtos"
 
 #: Template/GymProduct/add_product.ctp:26
 #: Template/GymProduct/product_list.ctp:47
 #: Template/GymProduct/product_list.ctp:76 Template/GymStore/sell_record.ctp:35
 #: Template/GymStore/sell_record.ctp:62
 msgid "Product Name"
-msgstr "Nome do Produto"
+msgstr "___Nome do Produto"
 
 #: Template/GymProduct/add_product.ctp:32
 #: Template/GymProduct/product_list.ctp:48
 #: Template/GymProduct/product_list.ctp:77
 msgid "Product Price"
-msgstr "Preço do produto"
+msgstr "___Preço do produto"
 
 #: Template/GymProduct/add_product.ctp:41
 #: Template/GymProduct/product_list.ctp:49
 #: Template/GymProduct/product_list.ctp:78 Template/GymStore/sell_record.ctp:37
 #: Template/GymStore/sell_record.ctp:64
 msgid "Product Quantity"
-msgstr "Quantidade de produto"
+msgstr "___Quantidade de produto"
 
 #: Template/GymProfile/view_profile.ctp:51
 msgid "Account Settings"
-msgstr "Configurações da conta"
+msgstr "___Configurações da conta"
 
 #: Template/GymProfile/view_profile.ctp:76
 msgid "Current Password"
-msgstr "senha atual"
+msgstr "___senha atual"
 
 #: Template/GymProfile/view_profile.ctp:82
 msgid "New Password"
-msgstr "Nova senha"
+msgstr "___Nova senha"
 
 #: Template/GymProfile/view_profile.ctp:87 Template/Installer/index.ctp:571
 msgid "Confirm Password"
-msgstr "Confirme a Senha"
+msgstr "___Confirme a Senha"
 
 #: Template/GymProfile/view_profile.ctp:106
 msgid "Other Information"
-msgstr "Outra informação"
+msgstr "___Outra informação"
 
 #: Template/GymReservation/add_reservation.ctp:58
 msgid "Edit Event"
-msgstr "Editar evento"
+msgstr "___Editar evento"
 
 #: Template/GymReservation/add_reservation.ctp:60
 #: Template/GymReservation/reservation_list.ctp:41
 msgid "Add Event"
-msgstr "Adicionar Evento"
+msgstr "___Adicionar Evento"
 
 #: Template/GymReservation/add_reservation.ctp:63
 msgid "Schedule"
-msgstr "Cronograma"
+msgstr "___Cronograma"
 
 #: Template/GymReservation/add_reservation.ctp:66
 #: Template/GymReservation/reservation_list.ctp:34
 msgid "Event List"
-msgstr "Lista de evento"
+msgstr "___Lista de evento"
 
 #: Template/GymReservation/add_reservation.ctp:75
 #: Template/GymReservation/reservation_list.ctp:51
 #: Template/GymReservation/reservation_list.ctp:83
 msgid "Event Name"
-msgstr "Nome do evento"
+msgstr "___Nome do evento"
 
 #: Template/GymReservation/add_reservation.ctp:82
 #: Template/GymReservation/reservation_list.ctp:52
 #: Template/GymReservation/reservation_list.ctp:84
 msgid "Event Date"
-msgstr "Data do evento"
+msgstr "___Data do evento"
 
 #: Template/GymReservation/add_reservation.ctp:89
 msgid "Event Place"
-msgstr "Lugar do evento"
+msgstr "___Lugar do evento"
 
 #: Template/GymReservation/add_reservation.ctp:91
 msgid "Select Event Places"
-msgstr "Selecionar locais do evento"
+msgstr "___Selecionar locais do evento"
 
 #: Template/GymReservation/add_reservation.ctp:94
 msgid "Add or Remove"
-msgstr "Adicionar ou remover"
+msgstr "___Adicionar ou remover"
 
 #: Template/GymReservation/reservation_list.ctp:53
 #: Template/GymReservation/reservation_list.ctp:85
 msgid "Place"
-msgstr "Lugar, colocar"
+msgstr "___Lugar, colocar"
 
 #: Template/GymStore/sell_product.ctp:29
 msgid "Edit Sell Product"
-msgstr "Editar produto de venda"
+msgstr "___Editar produto de venda"
 
 #: Template/GymStore/sell_product.ctp:31 Template/GymStore/sell_record.ctp:26
 msgid "Add Sell Product"
-msgstr "Adicionar produto de venda"
+msgstr "___Adicionar produto de venda"
 
 #: Template/GymStore/sell_product.ctp:38 Template/GymStore/sell_record.ctp:22
 msgid "Sell Records"
-msgstr "Venda de Registros"
+msgstr "___Venda de Registros"
 
 #: Template/GymStore/sell_product.ctp:63
 msgid "Select Product"
-msgstr "Selecione o produto"
+msgstr "___Selecione o produto"
 
 #: Template/GymStore/sell_product.ctp:75
 msgid "Quantity"
-msgstr "Quantidade"
+msgstr "___Quantidade"
 
 #: Template/Installer/index.ctp:10 Template/Installer/success.ctp:2
 msgid "Gym Master - GYM Management Installation Wizard"
-msgstr "Gym Master - Assistente de instalação de gerenciamento de GYM"
+msgstr "___Gym Master - Assistente de instalação de gerenciamento de GYM"
 
 #: Template/Installer/index.ctp:16 Template/Installer/index.ctp:18
 msgid "Server Requirements"
-msgstr "Requisitos do servidor"
+msgstr "___Requisitos do servidor"
 
 #: Template/Installer/index.ctp:79 Template/Installer/index.ctp:81
 msgid "Database Setup"
-msgstr "Configuração do banco de dados"
+msgstr "___Configuração do banco de dados"
 
 #: Template/Installer/index.ctp:84
 msgid "Database Name"
-msgstr "Nome do banco de dados"
+msgstr "___Nome do banco de dados"
 
 #: Template/Installer/index.ctp:92
 msgid "Database Username"
-msgstr "Nome de Usuário do Banco de Dados"
+msgstr "___Nome de Usuário do Banco de Dados"
 
 #: Template/Installer/index.ctp:100
 msgid "Database Password"
-msgstr "Senha do banco de dados"
+msgstr "___Senha do banco de dados"
 
 #: Template/Installer/index.ctp:116 Template/Installer/index.ctp:546
 msgid "Fields are required."
-msgstr "Os campos são obrigatórios."
+msgstr "___Os campos são obrigatórios."
 
 #: Template/Installer/index.ctp:119 Template/Installer/index.ctp:121
 msgid "System Setting"
-msgstr "Configuração de sistema"
+msgstr "___Configuração de sistema"
 
 #: Template/Installer/index.ctp:124
 msgid "System Name"
-msgstr "Nome do sistema"
+msgstr "___Nome do sistema"
 
 #: Template/Installer/index.ctp:549 Template/Installer/index.ctp:551
 msgid "Login Details"
-msgstr "detalhes de login"
+msgstr "___detalhes de login"
 
 #: Template/Installer/index.ctp:579
 msgid "Finish"
-msgstr "Terminar"
+msgstr "___Terminar"
 
 #: Template/Installer/index.ctp:581
 msgid "Please Note :"
-msgstr "Observe :"
+msgstr "___Observe :"
 
 #: Template/Installer/index.ctp:584
 msgid "1. It may take couple of minutes to set-up database."
-msgstr "1. Pode demorar alguns minutos para configurar o banco de dados."
+msgstr "___1. Pode demorar alguns minutos para configurar o banco de dados."
 
 #: Template/Installer/index.ctp:587
 msgid "2. Do not refresh page after to you click on install button."
-msgstr "2. Não atualize a página depois de clicar no botão de instalação."
+msgstr "___2. Não atualize a página depois de clicar no botão de instalação."
 
 #: Template/Installer/index.ctp:590
 msgid "3. You will be acknowledge with success message once after installation finishes."
-msgstr "3. Você será reconhecido com uma mensagem de sucesso uma vez após o término da instalação."
+msgstr "___3. Você será reconhecido com uma mensagem de sucesso uma vez após o término da instalação."
 
 #: Template/Installer/index.ctp:593
 msgid "4. Click on install to complete the installation."
-msgstr "4. Clique em instalar para concluir a instalação."
+msgstr "___4. Clique em instalar para concluir a instalação."
 
 #: Template/Installer/success.ctp:7
 msgid "Congratulation"
-msgstr "Parabens"
+msgstr "___Parabens"
 
 #: Template/Installer/success.ctp:8
 msgid "Installation Completed Successfully"
-msgstr "Instalação concluída com sucesso"
+msgstr "___Instalação concluída com sucesso"
 
 #: Template/Installer/success.ctp:9
 msgid "Click"
-msgstr "Clique"
+msgstr "___Clique"
 
 #: Template/Installer/success.ctp:9
 msgid "here to redirect on \tlogin page."
-msgstr "aqui para redirecionar na página \\ tlogin."
+msgstr "___aqui para redirecionar na página \\ tlogin."
 
 #: Template/MemberRegistration/index.ctp:97 Template/Users/login.ctp:32
 msgid "Member Registration"
-msgstr "Registro de Membro"
+msgstr "___Registro de Membro"
 
 #: Template/MemberRegistration/index.ctp:178
 msgid "state"
-msgstr "Estado"
+msgstr "___Estado"
 
 #: Template/MemberRegistration/index.ctp:273
 msgid "Select Joining Date"
-msgstr "Selecione Data de Junção"
+msgstr "___Selecione Data de Junção"
 
 #: Template/MemberRegistration/index.ctp:295
 msgid "Go Back"
-msgstr "Volte"
+msgstr "___Volte"
 
 #: Template/Membership/add.ctp:69 Template/Membership/edit_membership.ctp:11
 #: Template/Membership/membership_list.ctp:36
 #: Template/Membership/view_activity.ctp:44
 msgid "Membership List"
-msgstr "Lista de membros"
+msgstr "___Lista de membros"
 
 #: Template/Membership/add.ctp:88 Template/Membership/edit_membership.ctp:25
 msgid "Membership Category"
-msgstr "Categoria de filiação"
+msgstr "___Categoria de filiação"
 
 #: Template/Membership/add.ctp:98 Template/Membership/edit_membership.ctp:35
 #: Template/Membership/membership_list.ctp:55
 #: Template/Membership/membership_list.ctp:103
 msgid "Membership Period"
-msgstr "Período de associação"
+msgstr "___Período de associação"
 
 #: Template/Membership/add.ctp:101
 msgid "No. of Days"
-msgstr "No. de dias"
+msgstr "___No. de dias"
 
 #: Template/Membership/add.ctp:108 Template/Membership/edit_membership.ctp:39
 msgid "Membership Limit"
-msgstr "Limite de associação"
+msgstr "___Limite de associação"
 
 #: Template/Membership/add.ctp:110
 msgid "Limited"
-msgstr "Limitado"
+msgstr "___Limitado"
 
 #: Template/Membership/add.ctp:111
 msgid "Unlimited"
-msgstr "Ilimitado"
+msgstr "___Ilimitado"
 
 #: Template/Membership/add.ctp:114
 msgid "no. of classes"
-msgstr "não. de classes"
+msgstr "___não. de classes"
 
 #: Template/Membership/add.ctp:117
 msgid "Class every week"
-msgstr "Aula toda semana"
+msgstr "___Aula toda semana"
 
 #: Template/Membership/add.ctp:117
 msgid "Class every month"
-msgstr "Aula todo mês"
+msgstr "___Aula todo mês"
 
 #: Template/Membership/add.ctp:132 Template/Membership/edit_membership.ctp:46
 msgid "Membership Amount"
-msgstr "Valor da associação"
+msgstr "___Valor da associação"
 
 #: Template/Membership/add.ctp:150 Template/Membership/membership_list.ctp:56
 #: Template/Membership/membership_list.ctp:104
 msgid "Installment Plan"
-msgstr "Plano de parcelamento"
+msgstr "___Plano de parcelamento"
 
 #: Template/Membership/add.ctp:156 Template/Membership/edit_membership.ctp:56
 msgid "Select Installment Plan"
-msgstr "Selecione o plano de parcelamento"
+msgstr "___Selecione o plano de parcelamento"
 
 #: Template/Membership/add.ctp:161 Template/Membership/edit_membership.ctp:62
 msgid "Add Installment Plan"
-msgstr "Adicionar plano de parcelamento"
+msgstr "___Adicionar plano de parcelamento"
 
 #: Template/Membership/add.ctp:167 Template/Membership/edit_membership.ctp:67
 msgid "Signup Fee"
-msgstr "Taxa de inscrição"
+msgstr "___Taxa de inscrição"
 
 #: Template/Membership/add.ctp:177 Template/Membership/edit_membership.ctp:71
 msgid "Membership Description"
-msgstr "Descrição da associação"
+msgstr "___Descrição da associação"
 
 #: Template/Membership/add.ctp:184 Template/Membership/edit_membership.ctp:76
 msgid "Membership Image"
-msgstr "Imagem de associação"
+msgstr "___Imagem de associação"
 
 #: Template/Membership/add.ctp:198
 msgid "Save Membership"
-msgstr "Salvar associação"
+msgstr "___Salvar associação"
 
 #: Template/Membership/edit_membership.ctp:51
 msgid "Installment Amount"
-msgstr "Montante da Prestação"
+msgstr "___Montante da Prestação"
 
 #: Template/Membership/edit_membership.ctp:55
 msgid "Installment Period"
-msgstr "Período de parcelamento"
+msgstr "___Período de parcelamento"
 
 #: Template/Membership/membership_list.ctp:57
 #: Template/Membership/membership_list.ctp:105
 msgid "SignUp Fee"
-msgstr "Taxa de assinatura"
+msgstr "___Taxa de assinatura"
 
 #: Template/Membership/membership_list.ctp:91
 msgid "Activities"
-msgstr "actividades"
+msgstr "___actividades"
 
 #: Template/Membership/view_activity.ctp:41
 msgid "View Activity"
-msgstr "Ver atividade"
+msgstr "___Ver atividade"
 
 #: Template/Membership/view_activity.ctp:56
 msgid "Select Activity"
-msgstr "Selecione a atividade"
+msgstr "___Selecione a atividade"
 
 #: Template/MembershipPayment/add_expense.ctp:17
 msgid "Edit Expense"
-msgstr "Editar despesa"
+msgstr "___Editar despesa"
 
 #: Template/MembershipPayment/add_expense.ctp:19
 #: Template/MembershipPayment/expense_list.ctp:30
 msgid "Add Expense"
-msgstr "Adicionar Despesa"
+msgstr "___Adicionar Despesa"
 
 #: Template/MembershipPayment/add_expense.ctp:25
 #: Template/MembershipPayment/expense_list.ctp:26
 msgid "Expense List"
-msgstr "Lista de Despesas"
+msgstr "___Lista de Despesas"
 
 #: Template/MembershipPayment/add_expense.ctp:34
 #: Template/MembershipPayment/expense_list.ctp:39
 #: Template/MembershipPayment/expense_list.ctp:67
 msgid "Supplier Name"
-msgstr "Nome do Fornecedor"
+msgstr "___Nome do Fornecedor"
 
 #: Template/MembershipPayment/add_expense.ctp:44
 #: Template/MembershipPayment/add_income.ctp:59
 msgid "Paid"
-msgstr "Pago"
+msgstr "___Pago"
 
 #: Template/MembershipPayment/add_expense.ctp:44
 #: Template/MembershipPayment/add_income.ctp:59
 msgid "Part Paid"
-msgstr "Parte paga"
+msgstr "___Parte paga"
 
 #: Template/MembershipPayment/add_expense.ctp:44
 #: Template/MembershipPayment/add_income.ctp:59
 msgid "Unpaid"
-msgstr "Não remunerado"
+msgstr "___Não remunerado"
 
 #: Template/MembershipPayment/add_expense.ctp:61
 #: Template/MembershipPayment/add_expense.ctp:83
 msgid "Expense Entry"
-msgstr "Entrada de Despesas"
+msgstr "___Entrada de Despesas"
 
 #: Template/MembershipPayment/add_expense.ctp:63
 #: Template/MembershipPayment/add_expense.ctp:85
 msgid "Expense Amount"
-msgstr "Quantia de Despesas"
+msgstr "___Quantia de Despesas"
 
 #: Template/MembershipPayment/add_expense.ctp:66
 #: Template/MembershipPayment/add_expense.ctp:88
 msgid "Expense Entry Label"
-msgstr "Rótulo de Entrada de Despesas"
+msgstr "___Rótulo de Entrada de Despesas"
 
 #: Template/MembershipPayment/add_expense.ctp:103
 msgid "Add Expense Entry"
-msgstr "Adicionar entrada de despesa"
+msgstr "___Adicionar entrada de despesa"
 
 #: Template/MembershipPayment/add_expense.ctp:108
 msgid "Create Expense Entry"
-msgstr "Criar entrada de despesa"
+msgstr "___Criar entrada de despesa"
 
 #: Template/MembershipPayment/add_income.ctp:25
 msgid "Edit Income"
-msgstr "Editar renda"
+msgstr "___Editar renda"
 
 #: Template/MembershipPayment/add_income.ctp:27
 #: Template/MembershipPayment/income_list.ctp:30
 msgid "Add Income"
-msgstr "Adicionar renda"
+msgstr "___Adicionar renda"
 
 #: Template/MembershipPayment/add_income.ctp:34
 #: Template/MembershipPayment/income_list.ctp:26
 msgid "Income List"
-msgstr "Lista de renda"
+msgstr "___Lista de renda"
 
 #: Template/MembershipPayment/add_income.ctp:41
 msgid "income"
-msgstr "renda"
+msgstr "___renda"
 
 #: Template/MembershipPayment/add_income.ctp:49
 msgid "Income label"
-msgstr "Rótulo de renda"
+msgstr "___Rótulo de renda"
 
 #: Template/MembershipPayment/add_income.ctp:60
 msgid "Select Status"
-msgstr "Selecione o status"
+msgstr "___Selecione o status"
 
 #: Template/MembershipPayment/add_income.ctp:76
 #: Template/MembershipPayment/add_income.ctp:98
 msgid "Income Entry"
-msgstr "Entrada de renda"
+msgstr "___Entrada de renda"
 
 #: Template/MembershipPayment/add_income.ctp:78
 #: Template/MembershipPayment/add_income.ctp:100
 msgid "Income Amount"
-msgstr "Valor da renda"
+msgstr "___Valor da renda"
 
 #: Template/MembershipPayment/add_income.ctp:81
 #: Template/MembershipPayment/add_income.ctp:103
 msgid "Income Entry Label"
-msgstr "Rótulo de Entrada de Renda"
+msgstr "___Rótulo de Entrada de Renda"
 
 #: Template/MembershipPayment/add_income.ctp:118
 msgid "Add Income Entry"
-msgstr "Adicionar entrada de renda"
+msgstr "___Adicionar entrada de renda"
 
 #: Template/MembershipPayment/add_income.ctp:123
 msgid "Create Income Entry"
-msgstr "Criar entrada de renda"
+msgstr "___Criar entrada de renda"
 
 #: Template/MembershipPayment/generate_payment_invoice.ctp:49
 #: Template/MembershipPayment/payment_list.ctp:39
 msgid "Generate Payment Invoice"
-msgstr "Gerar fatura de pagamento"
+msgstr "___Gerar fatura de pagamento"
 
 #: Template/MembershipPayment/generate_payment_invoice.ctp:53
 msgid "Membership Payment List"
-msgstr "Lista de Pagamento de Sócios"
+msgstr "___Lista de Pagamento de Sócios"
 
 #: Template/MembershipPayment/generate_payment_invoice.ctp:82
 msgid "Total Amount"
-msgstr "Valor total"
+msgstr "___Valor total"
 
 #: Template/MembershipPayment/generate_payment_invoice.ctp:102
 msgid "save_membership_payment"
-msgstr "save_membership_payment"
+msgstr "___save_membership_payment"
 
 #: Template/MembershipPayment/payment_list.ctp:49
 #: Template/MembershipPayment/payment_list.ctp:94
 msgid "Title"
-msgstr "Título"
+msgstr "___Título"
 
 #: Template/MembershipPayment/payment_list.ctp:79
 msgid "Pay"
-msgstr "Pagar"
+msgstr "___Pagar"
 
 #: Template/Reports/attendance_report.ctp:46
 #: Template/Reports/membership_report.ctp:17
@@ -3320,7 +3320,7 @@ msgstr "Pagar"
 #: Template/Reports/monthlyworkoutreport.ctp:29
 #: Template/Reports/payment_report.ctp:17
 msgid "Attendance Report"
-msgstr "Relatório de presenças"
+msgstr "___Relatório de presenças"
 
 #: Template/Reports/attendance_report.ctp:47
 #: Template/Reports/membership_report.ctp:14
@@ -3328,13 +3328,13 @@ msgstr "Relatório de presenças"
 #: Template/Reports/monthlyworkoutreport.ctp:17
 #: Template/Reports/payment_report.ctp:14
 msgid "Reports"
-msgstr "Relatórios"
+msgstr "___Relatórios"
 
 #: Template/Reports/attendance_report.ctp:50
 #: Template/Reports/membership_report.ctp:30
 #: Template/Reports/membership_status_report.ctp:17
 msgid "Membership Report"
-msgstr "Relatório de associação"
+msgstr "___Relatório de associação"
 
 #: Template/Reports/attendance_report.ctp:52
 #: Template/Reports/membership_report.ctp:19
@@ -3342,7 +3342,7 @@ msgstr "Relatório de associação"
 #: Template/Reports/monthlyworkoutreport.ctp:31
 #: Template/Reports/payment_report.ctp:19
 msgid "Membership Status Report"
-msgstr "Relatório de status da associação"
+msgstr "___Relatório de status da associação"
 
 #: Template/Reports/attendance_report.ctp:54
 #: Template/Reports/membership_report.ctp:21
@@ -3350,7 +3350,7 @@ msgstr "Relatório de status da associação"
 #: Template/Reports/monthlyworkoutreport.ctp:33
 #: Template/Reports/payment_report.ctp:21
 msgid "Payment Report"
-msgstr "Relatório de pagamento"
+msgstr "___Relatório de pagamento"
 
 #: Template/Reports/attendance_report.ctp:55
 #: Template/Reports/membership_report.ctp:22
@@ -3360,244 +3360,244 @@ msgstr "Relatório de pagamento"
 #: Template/Reports/monthlyworkoutreport.ctp:34
 #: Template/Reports/payment_report.ctp:22
 msgid "Members Monthly Workout Report"
-msgstr "Relatório de treino mensal dos membros"
+msgstr "___Relatório de treino mensal dos membros"
 
 #: Template/Reports/attendance_report.ctp:63
 msgid "Strat Date"
-msgstr "Strat Date"
+msgstr "___Strat Date"
 
 #: Template/Reports/attendance_report.ctp:119
 #: Template/Reports/membership_report.ctp:61
 #: Template/Reports/membership_status_report.ctp:41
 #: Template/Reports/payment_report.ctp:66
 msgid "There is not enough data to generate report."
-msgstr "Não há dados suficientes para gerar o relatório."
+msgstr "___Não há dados suficientes para gerar o relatório."
 
 #: Template/Reports/membership_report.ctp:13
 #: Template/Reports/payment_report.ctp:13
 msgid "Membership report"
-msgstr "Relatório de associação"
+msgstr "___Relatório de associação"
 
 #: Template/Reports/membership_status_report.ctp:30
 msgid "Membership by status"
-msgstr "Associação por status"
+msgstr "___Associação por status"
 
 #: Template/Reports/monthlyworkoutreport.ctp:63
 msgid "GO"
-msgstr "VAI"
+msgstr "___VAI"
 
 #: Template/Reports/monthlyworkoutreport.ctp:77
 msgid "Workout Date"
-msgstr "Data de treino"
+msgstr "___Data de treino"
 
 #: Template/Reports/monthlyworkoutreport.ctp:78
 msgid "Workout Name"
-msgstr "Nome do Treino"
+msgstr "___Nome do Treino"
 
 #: Template/Reports/monthlyworkoutreport.ctp:125
 msgid "Download"
-msgstr "Baixar"
+msgstr "___Baixar"
 
 #: Template/Reports/monthlyworkoutreport.ctp:132
 msgid "No Workout Found."
-msgstr "Nenhum treino encontrado."
+msgstr "___Nenhum treino encontrado."
 
 #: Template/Reports/payment_report.ctp:30
 msgid "Fee Payment Report By Month"
-msgstr "Relatório de pagamento de taxas por mês"
+msgstr "___Relatório de pagamento de taxas por mês"
 
 #: Template/StaffMembers/add_staff.ctp:50
 #: Template/StaffMembers/staff_list.ctp:30
 msgid "Staff Member List"
-msgstr "Lista de membros da equipe"
+msgstr "___Lista de membros da equipe"
 
 #: Template/StaffMembers/add_staff.ctp:99
 msgid "Assign Role"
-msgstr "Atribuir Papel"
+msgstr "___Atribuir Papel"
 
 #: Template/StaffMembers/add_staff.ctp:101
 msgid "Select Role"
-msgstr "Selecione o papel"
+msgstr "___Selecione o papel"
 
 #: Template/StaffMembers/add_staff.ctp:109
 msgid "Specialization"
-msgstr "Especialização"
+msgstr "___Especialização"
 
 #: Template/StaffMembers/add_staff.ctp:182
 msgid "Save Staff"
-msgstr "Salvar Pessoal"
+msgstr "___Salvar Pessoal"
 
 #: Template/StaffMembers/staff_list.ctp:48
 #: Template/StaffMembers/staff_list.ctp:81
 msgid "Staff Member Name"
-msgstr "Nome do membro da equipe"
+msgstr "___Nome do membro da equipe"
 
 #: Template/StaffMembers/staff_list.ctp:49
 #: Template/StaffMembers/staff_list.ctp:82
 msgid "Role"
-msgstr "Função"
+msgstr "___Função"
 
 #: Template/StaffMembers/staff_list.ctp:50
 #: Template/StaffMembers/staff_list.ctp:83
 msgid "Staff Member Email"
-msgstr "E-mail do membro da equipe"
+msgstr "___E-mail do membro da equipe"
 
 #: Template/Users/login.ctp:23
 msgid "Logging you in"
-msgstr "Logando você"
+msgstr "___Logando você"
 
 #: Template/Users/login.ctp:31
 msgid "Login"
-msgstr "Entrar"
+msgstr "___Entrar"
 
 #: custom
 msgid "(Max. height 50px.)"
-msgstr "(Max. Altura 50px.)"
+msgstr "___(Max. Altura 50px.)"
 
 #: custom
 msgid "Class Booking"
-msgstr "Reserva de Classe"
+msgstr "___Reserva de Classe"
 
 #: custom
 msgid "Class Booking List"
-msgstr "Lista de Reservas de Classes"
+msgstr "___Lista de Reservas de Classes"
 
 #: custom
 msgid "Add Class Booking"
-msgstr "Adicionar reserva de classe"
+msgstr "___Adicionar reserva de classe"
 
 #: custom
 msgid "Booking Date"
-msgstr "Data da Reserva"
+msgstr "___Data da Reserva"
 
 #: custom
 msgid "Booking Day"
-msgstr "Dia da Reserva"
+msgstr "___Dia da Reserva"
 
 #: custom
 msgid "Add Booking Class"
-msgstr "Adicionar classe de reserva"
+msgstr "___Adicionar classe de reserva"
 
 #: custom
 msgid "Edit Booking Class"
-msgstr "Editar classe de reserva"
+msgstr "___Editar classe de reserva"
 
 #: custom
 msgid "Save Booking"
-msgstr "Salvar Reserva"
+msgstr "___Salvar Reserva"
 
 #: custom
 msgid "Add Youtube Embaded Link"
-msgstr "Adicionar link incorporado do YouTube"
+msgstr "___Adicionar link incorporado do YouTube"
 
 #: custom
 msgid "Add More"
-msgstr "Adicione mais"
+msgstr "___Adicione mais"
 
 #: custom
 msgid "No Any Video"
-msgstr "Nenhum vídeo"
+msgstr "___Nenhum vídeo"
 
 #: custom
 msgid "Export"
-msgstr "Exportação"
+msgstr "___Exportação"
 
 #: custom
 msgid "Import"
-msgstr "Importar"
+msgstr "___Importar"
 
 #: custom
 msgid "Side Menu Color"
-msgstr "Cor do menu lateral"
+msgstr "___Cor do menu lateral"
 
 #: custom
 msgid "Header Color"
-msgstr "Cor do cabeçalho"
+msgstr "___Cor do cabeçalho"
 
 #: custom
 msgid "Theme Setting"
-msgstr "Configuração de Tema"
+msgstr "___Configuração de Tema"
 
 #: custom
 msgid "Sample Download"
-msgstr "Download da amostra"
+msgstr "___Download da amostra"
 
 #: custom
 msgid "Membership Report List"
-msgstr "Lista de relatórios de associação"
+msgstr "___Lista de relatórios de associação"
 
 #: custom
 msgid "Payment Report List"
-msgstr "Lista de relatórios de pagamento"
+msgstr "___Lista de relatórios de pagamento"
 
 #: custom
 msgid "Attendance Report List"
-msgstr "Lista de Relatórios de Presença"
+msgstr "___Lista de Relatórios de Presença"
 
 #: custom
 msgid "Total Member"
-msgstr "Membro Total"
+msgstr "___Membro Total"
 
 #: custom
 msgid "Attendance Date"
-msgstr "Data de presença"
+msgstr "___Data de presença"
 
 #: custom
 msgid "Number Of Member"
-msgstr "Número de membros"
+msgstr "___Número de membros"
 
 #: custom
 msgid "Stripe Setting"
-msgstr "Configuração de distribuição"
+msgstr "___Configuração de distribuição"
 
 #: custom
 msgid "Secret Key"
-msgstr "Chave secreta"
+msgstr "___Chave secreta"
 
 #: custom
 msgid "Publishable Key"
-msgstr "Chave publicável"
+msgstr "___Chave publicável"
 
 #: custom
 msgid "Class Booking Fees"
-msgstr "Taxas de reserva de classe"
+msgstr "___Taxas de reserva de classe"
 
 #: custom
 msgid "Booking Type"
-msgstr "Tipo de Reserva"
+msgstr "___Tipo de Reserva"
 
 #: custom
 msgid "Booking Detail"
-msgstr "Detalhes da Reserva"
+msgstr "___Detalhes da Reserva"
 
 #: custom
 msgid "Zipcode"
-msgstr "Código postal"
+msgstr "___Código postal"
 
 #: custom
 msgid "Full Name"
-msgstr "Nome completo"
+msgstr "___Nome completo"
 
 #: custom
 msgid "Class Information"
-msgstr "Informações da turma"
+msgstr "___Informações da turma"
 
 #: custom
 msgid "Select Booking Type"
-msgstr "Selecionar tipo de reserva"
+msgstr "___Selecionar tipo de reserva"
 
 #: custom
 msgid "Demo"
-msgstr "Demo"
+msgstr "___Demo"
 
 #: custom
 msgid "Paid Booking"
-msgstr "Reserva paga"
+msgstr "___Reserva paga"
 
 #: custom
 msgid "Error! This class is already enjoy by you, now you can not book this class as demo."
-msgstr "Erro! Esta aula já é divertida para você, agora você não pode reservar esta aula como demonstração."
+msgstr "___Erro! Esta aula já é divertida para você, agora você não pode reservar esta aula como demonstração."
 
 #: custom
 msgid "Error! Please Fill All Information."
-msgstr "Erro! Por favor, preencha todas as informações."
+msgstr "___Erro! Por favor, preencha todas as informações."
